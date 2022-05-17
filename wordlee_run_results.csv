@@ -1,0 +1,1300 @@
+1652803928.200446;it;['go', 'if', 'it'];3;2;True
+1652803928.276782;ad;['if', 'go', 'ad'];3;2;True
+1652803928.3535528;if;['if'];1;2;True
+1652803928.4308693;go;['go'];1;2;True
+1652803928.5086913;go;['if', 'ad', 'go'];3;2;True
+1652803928.5874307;go;['ad', 'if', 'go'];3;2;True
+1652803928.662897;go;['ad', 'it', 'go'];3;2;True
+1652803928.7413955;ad;['it', 'go', 'ad'];3;2;True
+1652803928.8235717;it;['go', 'if', 'it'];3;2;True
+1652803928.9003808;ad;['go', 'it', 'ad'];3;2;True
+1652803928.985302;ad;['if', 'ad'];2;2;True
+1652803929.06537;it;['it'];1;2;True
+1652803929.1981685;go;['ad', 'if', 'go'];3;2;True
+1652803929.4350326;ad;['it', 'go', 'ad'];3;2;True
+1652803929.578509;go;['it', 'go'];2;2;True
+1652803929.745123;it;['ad', 'it'];2;2;True
+1652803929.9134195;ad;['ad'];1;2;True
+1652803930.012667;ad;['ad'];1;2;True
+1652803930.1070354;if;['ad', 'it', 'if'];3;2;True
+1652803930.2259252;ad;['it', 'go', 'ad'];3;2;True
+1652803930.3394556;if;['if'];1;2;True
+1652803930.428885;ad;['go', 'if', 'ad'];3;2;True
+1652803930.5217798;ad;['go', 'it', 'ad'];3;2;True
+1652803930.610149;it;['if', 'it'];2;2;True
+1652803930.7042375;ad;['go', 'it', 'ad'];3;2;True
+1652803930.790411;go;['go'];1;2;True
+1652803930.8782501;if;['ad', 'it', 'if'];3;2;True
+1652803930.9626687;it;['it'];1;2;True
+1652803931.043666;ad;['go', 'if', 'ad'];3;2;True
+1652803931.137658;it;['it'];1;2;True
+1652803931.238029;it;['if', 'it'];2;2;True
+1652803931.3394315;it;['ad', 'if', 'it'];3;2;True
+1652803931.4334323;if;['it', 'if'];2;2;True
+1652803931.5569992;ad;['ad'];1;2;True
+1652803931.662689;if;['go', 'it', 'if'];3;2;True
+1652803931.7488253;ad;['if', 'go', 'ad'];3;2;True
+1652803931.831462;it;['it'];1;2;True
+1652803931.9147546;it;['ad', 'if', 'it'];3;2;True
+1652803932.0130973;go;['ad', 'it', 'go'];3;2;True
+1652803932.09405;it;['ad', 'it'];2;2;True
+1652803932.1866803;ad;['it', 'go', 'ad'];3;2;True
+1652803932.2738526;go;['go'];1;2;True
+1652803932.384442;go;['it', 'go'];2;2;True
+1652803932.4711328;it;['ad', 'if', 'it'];3;2;True
+1652803932.5561585;it;['if', 'it'];2;2;True
+1652803932.6424341;it;['if', 'it'];2;2;True
+1652803932.7318876;ad;['if', 'ad'];2;2;True
+1652803932.81901;ad;['if', 'go', 'ad'];3;2;True
+1652803932.907498;go;['it', 'ad', 'go'];3;2;True
+1652803933.0021682;it;['if', 'it'];2;2;True
+1652803933.0861363;if;['go', 'it', 'if'];3;2;True
+1652803933.1766934;it;['it'];1;2;True
+1652803933.2606106;if;['it', 'if'];2;2;True
+1652803933.3464823;ad;['go', 'if', 'ad'];3;2;True
+1652803933.4329505;if;['go', 'if'];2;2;True
+1652803933.5246208;go;['if', 'ad', 'go'];3;2;True
+1652803933.6024642;if;['go', 'it', 'if'];3;2;True
+1652803933.6954865;if;['ad', 'if'];2;2;True
+1652803933.7810013;go;['ad', 'if', 'go'];3;2;True
+1652803933.879747;ad;['it', 'ad'];2;2;True
+1652803933.966058;ad;['it', 'go', 'ad'];3;2;True
+1652803934.0539684;if;['if'];1;2;True
+1652803934.1397529;go;['if', 'ad', 'go'];3;2;True
+1652803934.2328093;if;['it', 'if'];2;2;True
+1652803934.3239574;ad;['it', 'go', 'ad'];3;2;True
+1652803934.4221072;if;['if'];1;2;True
+1652803934.5145652;it;['go', 'it'];2;2;True
+1652803934.5993147;go;['ad', 'it', 'go'];3;2;True
+1652803934.7080963;ad;['go', 'it', 'ad'];3;2;True
+1652803934.830365;if;['it', 'if'];2;2;True
+1652803934.9356043;ad;['go', 'it', 'ad'];3;2;True
+1652803935.0347424;it;['go', 'if', 'it'];3;2;True
+1652803935.156009;go;['go'];1;2;True
+1652803935.310637;ad;['if', 'ad'];2;2;True
+1652803935.401507;it;['it'];1;2;True
+1652803935.5099597;go;['if', 'ad', 'go'];3;2;True
+1652803935.5939643;go;['if', 'ad', 'go'];3;2;True
+1652803935.6852508;it;['it'];1;2;True
+1652803935.777431;it;['ad', 'it'];2;2;True
+1652803935.8703382;it;['it'];1;2;True
+1652803935.9539773;it;['ad', 'it'];2;2;True
+1652803936.0448902;go;['ad', 'if', 'go'];3;2;True
+1652803936.135239;if;['it', 'if'];2;2;True
+1652803936.252796;go;['if', 'ad', 'go'];3;2;True
+1652803936.3408742;if;['it', 'if'];2;2;True
+1652803936.4265597;go;['ad', 'if', 'go'];3;2;True
+1652803936.5104856;it;['it'];1;2;True
+1652803936.6012688;ad;['go', 'if', 'ad'];3;2;True
+1652803936.6941292;go;['if', 'go'];2;2;True
+1652803936.7809606;ad;['go', 'if', 'ad'];3;2;True
+1652803936.8694751;it;['go', 'if', 'it'];3;2;True
+1652803936.9472144;go;['it', 'ad', 'go'];3;2;True
+1652803937.0404172;it;['go', 'if', 'it'];3;2;True
+1652803937.1294193;if;['go', 'if'];2;2;True
+1652803937.2242813;if;['it', 'if'];2;2;True
+1652803937.3092432;if;['it', 'if'];2;2;True
+1652803937.4011385;go;['if', 'go'];2;2;True
+1652803937.5080671;it;['it'];1;2;True
+1652803937.618655;ad;['if', 'ad'];2;2;True
+1652803937.7504108;if;['ad', 'it', 'if'];3;2;True
+1652803937.9100127;raw;['age', 'can', 'hat', 'bad', 'law', 'raw'];6;3;True
+1652803938.0178359;pen;['eat', 'pie', 'pen'];3;3;True
+1652803938.1041877;fan;['eat', 'fan'];2;3;True
+1652803938.1915815;one;['ear', 'egg', 'let', 'eye', 'due', 'pie', 'one'];7;3;True
+1652803938.2833498;map;['sea', 'art', 'gap', 'map'];4;3;True
+1652803938.3789043;dog;['age', 'god', 'dog'];3;3;True
+1652803938.4758217;dog;['eat', 'win', 'mom', 'job', 'pop', 'log', 'dog'];7;3;True
+1652803938.5738943;web;['ear', 'use', 'net', 'bed', 'web'];5;3;True
+1652803938.6612914;fun;['ear', 'two', 'pin', 'fun'];4;3;True
+1652803938.7530556;tax;['tea', 'tax'];2;3;True
+1652803938.8429155;bid;['ear', 'two', 'mix', 'lip', 'dig', 'kid', 'bid'];7;3;True
+1652803938.9378426;red;['age', 'toe', 'web', 'red'];4;3;True
+1652803939.0326073;let;['tea', 'bet', 'let'];3;3;True
+1652803939.1225662;bus;['ear', 'put', 'bug', 'buy', 'bus'];5;3;True
+1652803939.2211058;ear;['tea', 'ear'];2;3;True
+1652803939.3085303;run;['sea', 'dot', 'rip', 'rub', 'run'];5;3;True
+1652803939.3963501;buy;['age', 'two', 'mix', 'rub', 'bus', 'buy'];6;3;True
+1652803939.4890404;bag;['sea', 'tax', 'can', 'raw', 'pay', 'dad', 'bag'];7;3;True
+1652803939.5853927;low;['eat', 'fix', 'cow', 'low'];4;3;True
+1652803939.6750982;big;['sea', 'bit', 'big'];3;3;True
+1652803939.7811072;due;['eat', 'ice', 'eye', 'she', 'fee', 'due'];6;3;True
+1652803939.868058;try;['ear', 'try'];2;3;True
+1652803939.9586828;red;['tea', 'pen', 'leg', 'key', 'sex', 'red'];6;3;True
+1652803940.0400167;son;['tea', 'kid', 'pop', 'log', 'cow', 'boy', 'son'];7;3;True
+1652803940.1308277;mud;['sea', 'top', 'bid', 'mud'];4;3;True
+1652803940.228231;dig;['eat', 'lip', 'big', 'dig'];4;3;True
+1652803940.307802;let;['eat', 'bet', 'set', 'net', 'let'];5;3;True
+1652803940.3989682;map;['sea', 'act', 'bag', 'war', 'day', 'map'];6;3;True
+1652803940.4882433;way;['age', 'hat', 'law', 'war', 'way'];5;3;True
+1652803940.58606;tie;['sea', 'egg', 'pie', 'lie', 'tie'];5;3;True
+1652803940.685121;pie;['age', 'toe', 'pie'];3;3;True
+1652803940.8065786;ask;['eat', 'bar', 'day', 'law', 'ask'];5;3;True
+1652803941.140113;rub;['age', 'cut', 'buy', 'rub'];4;3;True
+1652803941.3255625;bid;['tea', 'low', 'sir', 'mix', 'big', 'bid'];6;3;True
+1652803941.515638;pie;['ear', 'end', 'tie', 'lie', 'pie'];5;3;True
+1652803941.6729681;few;['eat', 'one', 'pie', 'she', 'few'];5;3;True
+1652803941.7771075;row;['eat', 'pin', 'cow', 'low', 'row'];5;3;True
+1652803941.8703766;boy;['age', 'pot', 'low', 'son', 'you', 'boy'];6;3;True
+1652803941.9689918;toe;['eat', 'net', 'tie', 'toe'];4;3;True
+1652803942.058609;fly;['ear', 'put', 'log', 'fly'];4;3;True
+1652803942.1534178;rip;['ear', 'try', 'row', 'rip'];4;3;True
+1652803942.248274;bag;['age', 'gap', 'gas', 'bag'];4;3;True
+1652803942.3358946;egg;['sea', 'key', 'web', 'end', 'egg'];5;3;True
+1652803942.4309802;war;['age', 'can', 'bar', 'war'];4;3;True
+1652803942.5303574;eat;['sea', 'age', 'ear', 'eat'];4;3;True
+1652803942.6229866;man;['tea', 'gap', 'raw', 'lay', 'man'];5;3;True
+1652803942.7087562;job;['ear', 'top', 'god', 'you', 'cow', 'mom', 'son'];7;3;False
+1652803942.801322;win;['ear', 'bit', 'mix', 'dig', 'pin', 'win'];6;3;True
+1652803942.886506;way;['sea', 'way'];2;3;True
+1652803942.9779093;bus;['ear', 'top', 'fix', 'bug', 'bus'];5;3;True
+1652803943.0631957;web;['age', 'ice', 'set', 'red', 'key', 'web'];6;3;True
+1652803943.1550932;eye;['eat', 'end', 'eye'];3;3;True
+1652803943.250775;cry;['tea', 'rip', 'row', 'rub', 'cry'];5;3;True
+1652803943.3454268;boy;['sea', 'bit', 'boy'];3;3;True
+1652803943.438735;red;['tea', 'web', 'sex', 'red'];4;3;True
+1652803943.5300217;tax;['sea', 'fan', 'gap', 'lab', 'tax'];5;3;True
+1652803943.614955;bar;['tea', 'car', 'bar'];3;3;True
+1652803943.7189531;toe;['age', 'tie', 'toe'];3;3;True
+1652803943.8173776;act;['ear', 'ask', 'act'];3;3;True
+1652803943.9012406;two;['eat', 'put', 'two'];3;3;True
+1652803943.9978626;man;['tea', 'bag', 'lay', 'dad', 'man'];5;3;True
+1652803944.0946193;mud;['tea', 'pin', 'box', 'mud'];4;3;True
+1652803944.1969438;map;['tea', 'man', 'map'];3;3;True
+1652803944.2930453;mom;['age', 'cut', 'box', 'low', 'son', 'mom'];6;3;True
+1652803944.3943002;eye;['ear', 'end', 'eye'];3;3;True
+1652803944.493332;lay;['tea', 'day', 'way', 'pay', 'lay'];5;3;True
+1652803944.5906348;due;['age', 'fee', 'due'];3;3;True
+1652803944.6913404;bug;['ear', 'pot', 'kid', 'bug'];4;3;True
+1652803944.7750964;fix;['eat', 'kid', 'win', 'sir', 'big', 'oil', 'fix'];7;3;True
+1652803944.8618658;rub;['tea', 'son', 'kid', 'buy', 'bug', 'rub'];6;3;True
+1652803944.9538002;log;['eat', 'kid', 'mom', 'you', 'box', 'cow', 'son'];7;3;False
+1652803945.046659;sad;['sea', 'sad'];2;3;True
+1652803945.1446528;lab;['ear', 'can', 'bad', 'bat', 'lab'];5;3;True
+1652803945.2460392;sir;['age', 'tip', 'oil', 'sir'];4;3;True
+1652803945.3335152;bug;['ear', 'tip', 'box', 'bug'];4;3;True
+1652803945.432172;mom;['ear', 'top', 'god', 'son', 'box', 'low', 'mom'];7;3;True
+1652803945.5456583;man;['ear', 'dad', 'cap', 'lab', 'fat', 'man'];6;3;True
+1652803945.635427;law;['age', 'law'];2;3;True
+1652803945.730702;man;['age', 'ask', 'art', 'bad', 'way', 'fan', 'can'];7;3;False
+1652803945.8199658;set;['sea', 'sex', 'set'];3;3;True
+1652803945.9085174;fly;['ear', 'pot', 'fix', 'fun', 'fly'];5;3;True
+1652803945.9938102;box;['sea', 'two', 'mom', 'boy', 'box'];5;3;True
+1652803946.0827386;god;['age', 'god'];2;3;True
+1652803946.1762462;use;['sea', 'she', 'use'];3;3;True
+1652803946.2680576;ice;['sea', 'eye', 'one', 'ice'];4;3;True
+1652803946.3538847;tip;['ear', 'hit', 'bit', 'tip'];4;3;True
+1652803946.449618;raw;['age', 'lab', 'war', 'raw'];4;3;True
+1652803946.5402076;she;['sea', 'sex', 'she'];3;3;True
+1652803946.6365507;guy;['age', 'log', 'dig', 'bug', 'guy'];5;3;True
+1652803946.7313945;ask;['sea', 'sad', 'gas', 'ask'];4;3;True
+1652803946.8410542;two;['sea', 'two'];2;3;True
+1652803946.9446478;hat;['tea', 'tax', 'bat', 'cat', 'fat', 'hat'];6;3;True
+1652803947.039676;top;['ear', 'tip', 'top'];3;3;True
+1652803947.1268501;war;['ear', 'war'];2;3;True
+1652803947.2258732;box;['eat', 'dig', 'boy', 'box'];4;3;True
+1652803947.3239663;fat;['sea', 'lay', 'fat'];3;3;True
+1652803947.425607;egg;['tea', 'sex', 'web', 'ice', 'one', 'eye', 'egg'];7;3;True
+1652803947.5254917;key;['age', 'sex', 'fee', 'key'];4;3;True
+1652803947.6062078;lay;['eat', 'map', 'can', 'sad', 'war', 'lab', 'lay'];7;3;True
+1652803947.7075188;bit;['ear', 'top', 'cut', 'bit'];4;3;True
+1652803947.8017383;plan;['meat', 'road', 'plan'];3;4;True
+1652803947.8934255;wave;['deal', 'make', 'pace', 'wave'];4;4;True
+1652803947.9841928;pipe;['neat', 'size', 'wife', 'rice', 'pipe'];5;4;True
+1652803948.0648787;look;['year', 'pool', 'look'];3;4;True
+1652803948.1556525;drag;['case', 'wait', 'lady', 'dark', 'drag'];5;4;True
+1652803948.2575197;east;['wear', 'gate', 'hate', 'date', 'tale', 'mate', 'east'];7;4;True
+1652803948.3467798;pool;['lake', 'lift', 'pool'];3;4;True
+1652803948.433339;wake;['gear', 'sale', 'date', 'cake', 'wake'];5;4;True
+1652803948.5266654;sink;['male', 'soup', 'skin', 'sink'];4;4;True
+1652803948.623558;file;['fear', 'fuel', 'feel', 'file'];4;4;True
+1652803948.709277;talk;['wake', 'dark', 'pack', 'talk'];4;4;True
+1652803948.8042057;shot;['wear', 'tool', 'stop', 'shot'];4;4;True
+1652803948.8978314;ball;['rate', 'lady', 'mall', 'fall', 'call', 'hall', 'ball'];7;4;True
+1652803948.9942052;menu;['lake', 'mine', 'menu'];3;4;True
+1652803949.0915499;mode;['face', 'knee', 'rule', 'size', 'home', 'move', 'mode'];7;4;True
+1652803949.1943927;hire;['fear', 'rent', 'crew', 'beer', 'rise', 'ride', 'hire'];7;4;True
+1652803949.279943;ride;['year', 'rent', 'ride'];3;4;True
+1652803949.365515;loan;['dare', 'pain', 'loan'];3;4;True
+1652803949.4608688;bite;['dare', 'bone', 'blue', 'bite'];4;4;True
+1652803949.5570667;boat;['wear', 'loan', 'boat'];3;4;True
+1652803949.6564832;gene;['ease', 'life', 'move', 'gene'];4;4;True
+1652803949.7595322;life;['dead', 'hire', 'wife', 'life'];4;4;True
+1652803949.8496509;duty;['wave', 'roll', 'disk', 'duty'];4;4;True
+1652803949.9491394;word;['lake', 'boss', 'town', 'word'];4;4;True
+1652803950.0485716;beer;['hate', 'wine', 'love', 'user', 'beer'];5;4;True
+1652803950.1407347;wife;['safe', 'wife'];2;4;True
+1652803950.2426107;code;['make', 'side', 'code'];3;4;True
+1652803950.3322086;read;['idea', 'deal', 'read'];3;4;True
+1652803950.4270499;read;['bear', 'dear', 'read'];3;4;True
+1652803950.5211964;tell;['case', 'bend', 'help', 'tell'];4;4;True
+1652803950.6175137;most;['meat', 'most'];2;4;True
+1652803950.7076125;game;['page', 'gate', 'game'];3;4;True
+1652803950.8041062;flow;['dear', 'loss', 'blow', 'flow'];4;4;True
+1652803950.897923;beat;['dear', 'team', 'seat', 'beat'];4;4;True
+1652803950.9918196;step;['wave', 'file', 'hope', 'keep', 'deep', 'step'];6;4;True
+1652803951.0810347;lake;['wave', 'safe', 'bake', 'make', 'cake', 'lake'];6;4;True
+1652803951.1821005;race;['peak', 'heat', 'exam', 'save', 'face', 'race'];6;4;True
+1652803951.2706156;text;['tear', 'text'];2;4;True
+1652803951.3590055;miss;['base', 'list', 'kiss', 'miss'];4;4;True
+1652803951.4611685;tale;['heat', 'east', 'gate', 'rate', 'date', 'mate', 'tale'];7;4;True
+1652803951.5560608;size;['save', 'shoe', 'site', 'side', 'size'];5;4;True
+1652803951.6558235;deal;['fear', 'heat', 'peak', 'deal'];4;4;True
+1652803951.7419717;fuel;['name', 'hole', 'life', 'self', 'feel', 'fuel'];6;4;True
+1652803951.834812;bite;['read', 'mess', 'poet', 'tell', 'text', 'bite'];6;4;True
+1652803951.9321477;head;['sale', 'tear', 'peak', 'head'];4;4;True
+1652803952.037687;base;['idea', 'face', 'make', 'tale', 'ease', 'base'];6;4;True
+1652803952.1340072;bend;['head', 'feed', 'bend'];3;4;True
+1652803952.2322521;diet;['seat', 'debt', 'diet'];3;4;True
+1652803952.3195593;cash;['lake', 'band', 'path', 'wash', 'cash'];5;4;True
+1652803952.4278333;cost;['make', 'bill', 'roof', 'host', 'cost'];5;4;True
+1652803952.517664;lock;['hate', 'soil', 'roll', 'gold', 'lock'];5;4;True
+1652803952.6170235;boot;['safe', 'pool', 'good', 'room', 'hook', 'boot'];6;4;True
+1652803952.7211475;ball;['wake', 'lady', 'half', 'salt', 'call', 'ball'];6;4;True
+1652803952.825974;boat;['beat', 'boat'];2;4;True
+1652803952.9117255;bell;['safe', 'bone', 'bell'];3;4;True
+1652803953.0059805;band;['fear', 'coat', 'gain', 'sand', 'land', 'hand', 'band'];7;4;True
+1652803953.1052532;pick;['face', 'lock', 'pick'];3;4;True
+1652803953.2155259;heat;['fear', 'dead', 'meal', 'beat', 'heat'];5;4;True
+1652803953.308377;will;['beat', 'flow', 'will'];3;4;True
+1652803953.4005642;pain;['cake', 'hand', 'pain'];3;4;True
+1652803953.490852;book;['dead', 'club', 'book'];3;4;True
+1652803953.5810044;ride;['lead', 'debt', 'deep', 'hide', 'ride'];5;4;True
+1652803953.6796234;goal;['dead', 'star', 'plan', 'goal'];4;4;True
+1652803953.7840114;jump;['gate', 'flow', 'pick', 'push', 'dump', 'jump'];6;4;True
+1652803953.879154;good;['exam', 'bowl', 'rock', 'food', 'good'];5;4;True
+1652803953.9698694;wear;['meat', 'year', 'fear', 'gear', 'wear'];5;4;True
+1652803954.0588138;hall;['tale', 'call', 'wall', 'ball', 'hall'];5;4;True
+1652803954.1543932;kiss;['save', 'slip', 'suit', 'skin', 'risk', 'disk', 'kiss'];7;4;True
+1652803954.2489233;cold;['bake', 'loss', 'golf', 'roll', 'hold', 'cold'];6;4;True
+1652803954.343138;hell;['exam', 'bell', 'hell'];3;4;True
+1652803954.4376137;girl;['beat', 'film', 'kill', 'will', 'girl'];5;4;True
+1652803954.53143;boot;['cake', 'loss', 'foot', 'boot'];4;4;True
+1652803954.6216924;look;['safe', 'roll', 'lock', 'look'];4;4;True
+1652803954.718721;date;['area', 'pace', 'wake', 'mate', 'hate', 'date'];6;4;True
+1652803954.811033;zone;['tale', 'hire', 'move', 'zone'];4;4;True
+1652803954.903009;desk;['meat', 'desk'];2;4;True
+1652803955.0058804;ring;['face', 'pull', 'boss', 'wind', 'ring'];5;4;True
+1652803955.1097822;tank;['male', 'band', 'hang', 'tank'];4;4;True
+1652803955.2097192;sick;['read', 'pull', 'snow', 'sick'];4;4;True
+1652803955.3045685;slip;['pace', 'pool', 'pull', 'slip'];4;4;True
+1652803955.4087942;wait;['team', 'coat', 'past', 'wait'];4;4;True
+1652803955.5148587;band;['east', 'hall', 'bank', 'band'];4;4;True
+1652803955.610394;blue;['sale', 'love', 'life', 'blue'];4;4;True
+1652803955.7040474;deep;['area', 'meet', 'week', 'feed', 'deep'];5;4;True
+1652803955.807993;user;['fear', 'user'];2;4;True
+1652803955.9030206;foot;['neat', 'list', 'foot'];3;4;True
+1652803955.9967902;shop;['deal', 'most', 'sock', 'snow', 'shop'];5;4;True
+1652803956.0842068;tour;['seat', 'lift', 'town', 'tour'];4;4;True
+1652803956.1794865;fire;['care', 'fire'];2;4;True
+1652803956.2736301;blue;['base', 'blue'];2;4;True
+1652803956.381817;wish;['exam', 'will', 'wind', 'wish'];4;4;True
+1652803956.481795;king;['lake', 'work', 'disk', 'kick', 'king'];5;4;True
+1652803956.580536;draw;['heat', 'glad', 'road', 'draw'];4;4;True
+1652803956.6726558;park;['lake', 'tank', 'park'];3;4;True
+1652803956.7643769;glad;['dear', 'glad'];2;4;True
+1652803956.854146;beer;['make', 'ride', 'crew', 'beer'];4;4;True
+1652803956.949597;rule;['rate', 'ride', 'rope', 'rule'];4;4;True
+1652803957.049263;film;['name', 'film'];2;4;True
+1652803957.1457727;gold;['dare', 'cold', 'gold'];3;4;True
+1652803957.2546053;join;['head', 'golf', 'soup', 'town', 'join'];5;4;True
+1652803957.3667026;chest;['delay', 'offer', 'sense', 'guess', 'chest'];5;5;True
+1652803957.468066;issue;['beach', 'spite', 'smile', 'noise', 'issue'];5;5;True
+1652803957.5622735;topic;['steal', 'north', 'topic'];3;5;True
+1652803957.667353;broad;['shake', 'award', 'guard', 'board', 'broad'];5;5;True
+1652803957.7699437;match;['phase', 'match'];2;5;True
+1652803957.8609838;taste;['shake', 'taste'];2;5;True
+1652803957.9679286;house;['layer', 'issue', 'house'];3;5;True
+1652803958.0710294;phase;['share', 'shake', 'shame', 'shape', 'phase'];5;5;True
+1652803958.1747448;drive;['layer', 'curve', 'nerve', 'drive'];4;5;True
+1652803958.269402;drive;['image', 'voice', 'drive'];3;5;True
+1652803958.3686073;other;['frame', 'drive', 'green', 'screw', 'other'];5;5;True
+1652803958.4636383;steak;['cause', 'share', 'state', 'steal', 'steak'];5;5;True
+1652803958.5604146;other;['taste', 'quiet', 'towel', 'other'];4;5;True
+1652803958.6762788;screw;['steal', 'shine', 'serve', 'screw'];4;5;True
+1652803958.7759023;peace;['image', 'plane', 'phase', 'peace'];4;5;True
+1652803958.878141;heavy;['raise', 'plane', 'teach', 'heavy'];4;5;True
+1652803958.9760327;laugh;['brave', 'chain', 'laugh'];3;5;True
+1652803959.0704143;photo;['essay', 'motor', 'doubt', 'photo'];4;5;True
+1652803959.1736171;shape;['pause', 'shape'];2;5;True
+1652803959.2663238;royal;['layer', 'royal'];2;5;True
+1652803959.3684072;storm;['shape', 'story', 'storm'];3;5;True
+1652803959.4646904;scene;['treat', 'smell', 'spend', 'scene'];4;5;True
+1652803959.5830386;motor;['delay', 'cross', 'rough', 'motor'];4;5;True
+1652803959.6927235;front;['anger', 'brown', 'front'];3;5;True
+1652803959.8445303;guess;['state', 'dress', 'guess'];3;5;True
+1652803959.9927423;great;['essay', 'equal', 'bread', 'treat', 'great'];5;5;True
+1652803960.1075428;juice;['earth', 'money', 'speed', 'level', 'juice'];5;5;True
+1652803960.2421396;hello;['share', 'phone', 'whole', 'hello'];4;5;True
+1652803960.3554592;birth;['raise', 'drink', 'birth'];3;5;True
+1652803960.477511;twist;['scale', 'strip', 'visit', 'twist'];4;5;True
+1652803960.580302;sport;['bread', 'worth', 'story', 'sport'];4;5;True
+1652803960.6940258;north;['water', 'story', 'court', 'north'];4;5;True
+1652803960.7929285;title;['image', 'juice', 'drive', 'noise', 'white', 'title'];6;5;True
+1652803960.8847148;stock;['grade', 'mouth', 'joint', 'stock'];4;5;True
+1652803960.987242;today;['ideal', 'broad', 'today'];3;5;True
+1652803961.088589;cloud;['space', 'truck', 'cloud'];3;5;True
+1652803961.1855807;count;['dance', 'count'];2;5;True
+1652803961.2819822;tower;['value', 'sweet', 'tower'];3;5;True
+1652803961.3772664;buddy;['trade', 'buddy'];2;5;True
+1652803961.4796295;storm;['paper', 'worth', 'court', 'story', 'storm'];5;5;True
+1652803961.5805259;march;['value', 'panic', 'watch', 'march'];4;5;True
+1652803961.6927006;bunch;['leave', 'print', 'bonus', 'bunch'];4;5;True
+1652803961.7854805;point;['state', 'court', 'point'];3;5;True
+1652803961.879583;great;['share', 'great'];2;5;True
+1652803961.9723713;draft;['great', 'craft', 'draft'];3;5;True
+1652803962.064269;spite;['earth', 'spite'];2;5;True
+1652803962.157472;dress;['scale', 'nurse', 'press', 'dress'];4;5;True
+1652803962.2718527;movie;['heart', 'guess', 'piece', 'movie'];4;5;True
+1652803962.4041991;nasty;['paper', 'watch', 'nasty'];3;5;True
+1652803962.5273466;reach;['cream', 'reach'];2;5;True
+1652803962.6498075;smile;['shake', 'score', 'smile'];3;5;True
+1652803962.7673695;pause;['raise', 'cause', 'pause'];3;5;True
+1652803962.8834877;shine;['aside', 'shine'];2;5;True
+1652803963.0252175;clock;['scale', 'clock'];2;5;True
+1652803963.1776495;nasty;['cream', 'nasty'];2;5;True
+1652803963.314049;point;['agent', 'print', 'point'];3;5;True
+1652803963.474839;human;['state', 'broad', 'human'];3;5;True
+1652803963.591369;craft;['plane', 'board', 'crash', 'crack', 'crazy', 'craft'];6;5;True
+1652803963.707033;grass;['state', 'crash', 'grass'];3;5;True
+1652803963.8148997;stage;['death', 'state', 'stage'];3;5;True
+1652803963.9575672;reach;['ideal', 'great', 'cream', 'reach'];4;5;True
+1652803964.1164732;offer;['aside', 'reply', 'owner', 'other', 'offer'];5;5;True
+1652803964.2972083;might;['cause', 'world', 'might'];3;5;True
+1652803964.420942;plane;['abuse', 'range', 'plane'];3;5;True
+1652803964.528874;dance;['layer', 'pause', 'dance'];3;5;True
+1652803964.6305318;glass;['break', 'today', 'usual', 'glass'];4;5;True
+1652803964.7524605;match;['metal', 'match'];2;5;True
+1652803964.8646748;pound;['cable', 'rough', 'sound', 'pound'];4;5;True
+1652803964.960191;swing;['water', 'swing'];2;5;True
+1652803965.074886;crack;['media', 'blank', 'track', 'crack'];4;5;True
+1652803965.1899502;blank;['space', 'alarm', 'blank'];3;5;True
+1652803965.289139;block;['cable', 'block'];2;5;True
+1652803965.394654;stock;['equal', 'minor', 'tooth', 'stock'];4;5;True
+1652803965.4992983;dance;['reach', 'peace', 'dance'];3;5;True
+1652803965.591571;hurry;['abuse', 'drunk', 'hurry'];3;5;True
+1652803965.6869192;state;['cream', 'plate', 'state'];3;5;True
+1652803965.78867;store;['space', 'serve', 'store'];3;5;True
+1652803965.88057;noise;['steal', 'scene', 'noise'];3;5;True
+1652803965.9749804;ideal;['bread', 'ideal'];2;5;True
+1652803966.0728767;issue;['water', 'shine', 'slide', 'issue'];4;5;True
+1652803966.163457;shirt;['aside', 'skirt', 'shirt'];3;5;True
+1652803966.277332;voice;['trade', 'smoke', 'whole', 'voice'];4;5;True
+1652803966.3825579;queen;['earth', 'glove', 'juice', 'queen'];4;5;True
+1652803966.482786;reach;['shape', 'heart', 'reach'];3;5;True
+1652803966.585601;shine;['value', 'prize', 'white', 'shine'];4;5;True
+1652803966.6878352;glass;['shake', 'class', 'glass'];3;5;True
+1652803966.7897398;chain;['reach', 'coach', 'chain'];3;5;True
+1652803966.8894525;catch;['cream', 'coach', 'catch'];3;5;True
+1652803966.9868078;trust;['treat', 'trust'];2;5;True
+1652803967.0716171;bench;['space', 'check', 'bench'];3;5;True
+1652803967.1586912;raise;['raise'];1;5;True
+1652803967.259407;topic;['value', 'proof', 'photo', 'topic'];4;5;True
+1652803967.3609195;might;['bread', 'visit', 'might'];3;5;True
+1652803967.4573376;agent;['shake', 'trade', 'plate', 'agent'];4;5;True
+1652803967.5541697;smell;['teach', 'serve', 'sense', 'spell', 'smell'];5;5;True
+1652803967.6344192;video;['treat', 'being', 'slide', 'video'];4;5;True
+1652803967.7212377;broad;['earth', 'spray', 'broad'];3;5;True
+1652803967.805711;brave;['brave'];1;5;True
+1652803967.886352;steak;['table', 'teach', 'great', 'steak'];4;5;True
+1652803967.9734366;carry;['steak', 'award', 'alarm', 'carry'];4;5;True
+1652803968.0614765;cancer;['bother', 'ladder', 'manner', 'cancer'];4;6;True
+1652803968.1517897;people;['dealer', 'yellow', 'lesson', 'people'];4;6;True
+1652803968.2389667;health;['finger', 'tackle', 'stable', 'wealth', 'health'];5;6;True
+1652803968.3314197;mirror;['memory', 'mirror'];2;6;True
+1652803968.4312685;yellow;['member', 'yellow'];2;6;True
+1652803968.5705693;extent;['worker', 'tennis', 'length', 'extent'];4;6;True
+1652803968.7097511;sector;['winter', 'sector'];2;6;True
+1652803968.984534;league;['dinner', 'health', 'league'];3;6;True
+1652803969.144325;invite;['flower', 'active', 'invite'];3;6;True
+1652803969.2730327;double;['cancer', 'mobile', 'bottle', 'double'];4;6;True
+1652803969.375402;basket;['travel', 'basket'];2;6;True
+1652803969.4783785;health;['farmer', 'battle', 'tackle', 'health'];4;6;True
+1652803969.5673137;recipe;['square', 'degree', 'remove', 'recipe'];4;6;True
+1652803969.6648912;safety;['lawyer', 'safety'];2;6;True
+1652803969.7681627;street;['theory', 'strike', 'stress', 'street'];4;6;True
+1652803969.8693547;flight;['refuse', 'flight'];2;6;True
+1652803969.9675047;nature;['expert', 'return', 'nature'];3;6;True
+1652803970.0628066;bottom;['poetry', 'bottom'];2;6;True
+1652803970.1617393;prompt;['series', 'horror', 'ground', 'prompt'];4;6;True
+1652803970.2595997;remote;['player', 'record', 'remote'];3;6;True
+1652803970.3604918;period;['record', 'period'];2;6;True
+1652803970.4730296;candle;['mother', 'candle'];2;6;True
+1652803970.56922;screen;['search', 'screen'];2;6;True
+1652803970.6651635;method;['degree', 'debate', 'method'];3;6;True
+1652803970.7623534;refuse;['region', 'repeat', 'refuse'];3;6;True
+1652803970.8608084;second;['remove', 'second'];2;6;True
+1652803970.9620988;battle;['search', 'detail', 'battle'];3;6;True
+1652803971.0591774;cancer;['breath', 'camera', 'cancer'];3;6;True
+1652803971.1555398;female;['desire', 'people', 'female'];3;6;True
+1652803971.251733;mobile;['ladder', 'yellow', 'closet', 'mobile'];4;6;True
+1652803971.3634477;expert;['drawer', 'theory', 'expert'];3;6;True
+1652803971.4663074;result;['degree', 'return', 'result'];3;6;True
+1652803971.5742574;effect;['effort', 'effect'];2;6;True
+1652803971.6702456;priest;['street', 'priest'];2;6;True
+1652803971.7710726;detail;['border', 'design', 'detail'];3;6;True
+1652803971.8741517;bottle;['desire', 'volume', 'bottle'];3;6;True
+1652803971.9758112;poetry;['sister', 'poetry'];2;6;True
+1652803972.0766869;abroad;['camera', 'author', 'abroad'];3;6;True
+1652803972.177744;bother;['stroke', 'editor', 'bother'];3;6;True
+1652803972.270644;memory;['memory'];1;6;True
+1652803972.3709278;junior;['target', 'horror', 'junior'];3;6;True
+1652803972.464987;survey;['garage', 'street', 'series', 'screen', 'survey'];5;6;True
+1652803972.5653336;police;['refuse', 'choice', 'police'];3;6;True
+1652803972.6548395;degree;['driver', 'drawer', 'degree'];3;6;True
+1652803972.7529044;player;['driver', 'mother', 'cancer', 'lawyer', 'player'];5;6;True
+1652803972.8453968;abroad;['drawer', 'abroad'];2;6;True
+1652803972.9410255;travel;['wonder', 'survey', 'travel'];3;6;True
+1652803973.0369413;nobody;['source', 'bottom', 'nobody'];3;6;True
+1652803973.1421793;doctor;['spread', 'doctor'];2;6;True
+1652803973.250862;member;['farmer', 'mother', 'member'];3;6;True
+1652803973.3483813;street;['wonder', 'father', 'street'];3;6;True
+1652803973.4461572;person;['matter', 'refuse', 'desire', 'person'];4;6;True
+1652803973.5372307;minute;['senior', 'minute'];2;6;True
+1652803973.635951;camera;['report', 'desire', 'camera'];3;6;True
+1652803973.7280803;couple;['writer', 'people', 'couple'];3;6;True
+1652803973.8299668;survey;['flower', 'number', 'survey'];3;6;True
+1652803973.9266958;senior;['charge', 'stress', 'silver', 'senior'];4;6;True
+1652803974.0174484;height;['figure', 'engine', 'height'];3;6;True
+1652803974.1144962;phrase;['source', 'desire', 'phrase'];3;6;True
+1652803974.2139513;wealth;['friend', 'closet', 'wealth'];3;6;True
+1652803974.3179388;flight;['answer', 'flight'];2;6;True
+1652803974.4200737;middle;['orange', 'device', 'middle'];3;6;True
+1652803974.5195804;mobile;['orange', 'volume', 'mobile'];3;6;True
+1652803974.617633;potato;['shower', 'nation', 'potato'];3;6;True
+1652803974.713761;inside;['number', 'change', 'inside'];3;6;True
+1652803974.808167;dinner;['breast', 'figure', 'winner', 'dinner'];4;6;True
+1652803974.898834;medium;['wonder', 'budget', 'medium'];3;6;True
+1652803974.9851315;beyond;['street', 'chance', 'engine', 'beyond'];4;6;True
+1652803975.0739858;sample;['desire', 'escape', 'sample'];3;6;True
+1652803975.1694016;length;['father', 'length'];2;6;True
+1652803975.2780478;travel;['resist', 'expert', 'regret', 'father', 'matter', 'travel'];6;6;True
+1652803975.3694708;energy;['career', 'writer', 'member', 'energy'];4;6;True
+1652803975.4710562;shower;['wonder', 'worker', 'shower'];3;6;True
+1652803975.5679493;middle;['number', 'scheme', 'female', 'middle'];4;6;True
+1652803975.6646354;device;['leader', 'medium', 'design', 'device'];4;6;True
+1652803975.7566535;series;['reward', 'sector', 'series'];3;6;True
+1652803975.8494906;policy;['purple', 'policy'];2;6;True
+1652803975.942059;appeal;['camera', 'appeal'];2;6;True
+1652803976.0296948;degree;['silver', 'career', 'worker', 'regret', 'degree'];5;6;True
+1652803976.1294196;senior;['breath', 'region', 'senior'];3;6;True
+1652803976.2156746;square;['effort', 'square'];2;6;True
+1652803976.3141363;repair;['finger', 'silver', 'writer', 'repair'];4;6;True
+1652803976.4046078;window;['lawyer', 'switch', 'window'];3;6;True
+1652803976.4873388;credit;['lawyer', 'future', 'bother', 'street', 'credit'];5;6;True
+1652803976.5738318;muscle;['refuse', 'muscle'];2;6;True
+1652803976.6631055;signal;['person', 'thanks', 'signal'];3;6;True
+1652803976.7419796;camera;['degree', 'recipe', 'source', 'cancer', 'camera'];5;6;True
+1652803976.8226073;throat;['senior', 'throat'];2;6;True
+1652803976.9110332;flight;['market', 'flight'];2;6;True
+1652803976.9933143;police;['bother', 'cookie', 'police'];3;6;True
+1652803977.0790098;nation;['stress', 'amount', 'action', 'nation'];4;6;True
+1652803977.1697004;wonder;['record', 'editor', 'border', 'wonder'];4;6;True
+1652803977.2591987;insect;['reason', 'single', 'inside', 'insect'];4;6;True
+1652803977.3553994;closet;['secret', 'closet'];2;6;True
+1652803977.454357;leader;['phrase', 'orange', 'drawer', 'leader'];4;6;True
+1652803977.547622;detail;['player', 'health', 'detail'];3;6;True
+1652803977.640884;employ;['poetry', 'employ'];2;6;True
+1652803977.7357306;summer;['source', 'square', 'summer'];3;6;True
+1652803977.8246932;phrase;['answer', 'breast', 'phrase'];3;6;True
+1652803977.9172359;ticket;['course', 'advice', 'ticket'];3;6;True
+1652803978.0087857;comment;['purpose', 'emotion', 'comment'];3;7;True
+1652803978.1207023;pattern;['process', 'pattern'];2;7;True
+1652803978.2229376;program;['partner', 'primary', 'program'];3;7;True
+1652803978.323943;trouble;['grocery', 'brother', 'trouble'];3;7;True
+1652803978.4363856;concern;['release', 'brother', 'forever', 'concern'];4;7;True
+1652803978.5309796;chapter;['airline', 'whereas', 'chapter'];3;7;True
+1652803978.6503131;college;['feature', 'welcome', 'college'];3;7;True
+1652803978.7453089;forever;['variety', 'forever'];2;7;True
+1652803978.8503234;savings;['partner', 'savings'];2;7;True
+1652803978.9493198;mention;['impress', 'meeting', 'mention'];3;7;True
+1652803979.0494783;contest;['pattern', 'contest'];2;7;True
+1652803979.1509533;special;['purpose', 'passage', 'special'];3;7;True
+1652803979.2529905;private;['pattern', 'private'];2;7;True
+1652803979.355005;disease;['present', 'disease'];2;7;True
+1652803979.4528015;combine;['shelter', 'evening', 'combine'];3;7;True
+1652803979.5493324;mistake;['brother', 'setting', 'mistake'];3;7;True
+1652803979.6423707;finding;['officer', 'finding'];2;7;True
+1652803979.7427971;husband;['convert', 'fishing', 'husband'];3;7;True
+1652803979.8436835;morning;['shelter', 'drawing', 'morning'];3;7;True
+1652803979.9332197;setting;['brother', 'meeting', 'setting'];3;7;True
+1652803980.02618;meeting;['reserve', 'feeling', 'meeting'];3;7;True
+1652803980.119986;finding;['network', 'savings', 'finding'];3;7;True
+1652803980.220099;highway;['courage', 'savings', 'highway'];3;7;True
+1652803980.3169477;pension;['officer', 'session', 'tension', 'pension'];4;7;True
+1652803980.4106412;meaning;['respond', 'meaning'];2;7;True
+1652803980.5050175;reality;['hearing', 'reality'];2;7;True
+1652803980.5956893;airport;['brother', 'comfort', 'support', 'airport'];4;7;True
+1652803980.6938906;fishing;['bedroom', 'quality', 'fishing'];3;7;True
+1652803980.7916653;forever;['picture', 'resolve', 'forever'];3;7;True
+1652803980.8929133;subject;['chapter', 'comment', 'subject'];3;7;True
+1652803980.990082;analyst;['convert', 'analyst'];2;7;True
+1652803981.0837317;current;['failure', 'surgery', 'current'];3;7;True
+1652803981.1719654;success;['lecture', 'success'];2;7;True
+1652803981.2619934;meaning;['recover', 'message', 'meaning'];3;7;True
+1652803981.3575552;airport;['reserve', 'country', 'airport'];3;7;True
+1652803981.4522061;trouble;['funeral', 'trouble'];2;7;True
+1652803981.5511234;warning;['current', 'warning'];2;7;True
+1652803981.6498477;officer;['article', 'officer'];2;7;True
+1652803981.7407818;western;['garbage', 'respond', 'western'];3;7;True
+1652803981.8408496;success;['reality', 'weekend', 'success'];3;7;True
+1652803981.9355934;history;['whereas', 'history'];2;7;True
+1652803982.0326965;ability;['concert', 'quality', 'ability'];3;7;True
+1652803982.128912;welcome;['impress', 'outcome', 'welcome'];3;7;True
+1652803982.2274044;pension;['general', 'mention', 'pension'];3;7;True
+1652803982.3235495;housing;['surgery', 'housing'];2;7;True
+1652803982.4159462;message;['officer', 'example', 'message'];3;7;True
+1652803982.5082266;picture;['picture'];1;7;True
+1652803982.593124;holiday;['reading', 'holiday'];2;7;True
+1652803982.688256;parking;['reserve', 'writing', 'parking'];3;7;True
+1652803982.7770627;analyst;['resolve', 'plastic', 'analyst'];3;7;True
+1652803982.878959;welcome;['shelter', 'balance', 'welcome'];3;7;True
+1652803982.9751532;control;['request', 'traffic', 'control'];3;7;True
+1652803983.0743961;finance;['hearing', 'finance'];2;7;True
+1652803983.1671746;feature;['address', 'feature'];2;7;True
+1652803983.273155;manager;['reality', 'courage', 'manager'];3;7;True
+1652803983.3762593;disease;['routine', 'disease'];2;7;True
+1652803983.47717;comment;['respect', 'comment'];2;7;True
+1652803983.5645738;context;['reserve', 'meaning', 'weekend', 'context'];4;7;True
+1652803983.6566234;capital;['release', 'quality', 'initial', 'capital'];4;7;True
+1652803983.7573626;nothing;['mixture', 'capital', 'nothing'];3;7;True
+1652803983.8505788;consist;['routine', 'nothing', 'consist'];3;7;True
+1652803983.9480302;vehicle;['profile', 'vehicle'];2;7;True
+1652803984.0466115;charity;['lecture', 'comfort', 'charity'];3;7;True
+1652803984.1362789;whereas;['storage', 'address', 'whereas'];3;7;True
+1652803984.2275672;purpose;['current', 'purpose'];2;7;True
+1652803984.322072;version;['recover', 'version'];2;7;True
+1652803984.4197156;respect;['quarter', 'brother', 'respect'];3;7;True
+1652803984.5143344;student;['concern', 'witness', 'student'];3;7;True
+1652803984.6044147;chapter;['counter', 'chapter'];2;7;True
+1652803984.6992958;climate;['current', 'climate'];2;7;True
+1652803984.8014805;weather;['produce', 'variety', 'leather', 'weather'];4;7;True
+1652803984.8989217;package;['fortune', 'package'];2;7;True
+1652803984.9954205;respond;['trainer', 'concern', 'respond'];3;7;True
+1652803985.0884264;officer;['fortune', 'profile', 'officer'];3;7;True
+1652803985.1895576;society;['respond', 'clothes', 'society'];3;7;True
+1652803985.279618;bedroom;['resolve', 'bedroom'];2;7;True
+1652803985.3775804;command;['failure', 'stomach', 'command'];3;7;True
+1652803985.4725354;concern;['general', 'concern'];2;7;True
+1652803985.5683236;outside;['courage', 'outside'];2;7;True
+1652803985.665342;penalty;['picture', 'payment', 'penalty'];3;7;True
+1652803985.7633944;traffic;['private', 'traffic'];2;7;True
+1652803985.867166;package;['reality', 'advance', 'package'];3;7;True
+1652803985.9626126;capital;['address', 'quality', 'initial', 'capital'];4;7;True
+1652803986.0534449;finance;['chapter', 'advance', 'balance', 'finance'];4;7;True
+1652803986.1479979;working;['storage', 'working'];2;7;True
+1652803986.2392435;concert;['article', 'concert'];2;7;True
+1652803986.333869;context;['revenue', 'patient', 'comment', 'contest', 'context'];5;7;True
+1652803986.4336536;science;['extreme', 'finance', 'science'];3;7;True
+1652803986.5325682;release;['weather', 'release'];2;7;True
+1652803986.6174517;savings;['bedroom', 'capital', 'savings'];3;7;True
+1652803986.7167747;problem;['brother', 'problem'];2;7;True
+1652803986.8191109;surgery;['chapter', 'forever', 'surgery'];3;7;True
+1652803986.912682;monitor;['project', 'history', 'monitor'];3;7;True
+1652803987.0092564;subject;['stretch', 'subject'];2;7;True
+1652803987.1090536;diamond;['private', 'diamond'];2;7;True
+1652803987.2047055;manager;['problem', 'manager'];2;7;True
+1652803987.298659;example;['article', 'example'];2;7;True
+1652803987.4047954;speaker;['officer', 'partner', 'speaker'];3;7;True
+1652803987.5017707;diamond;['general', 'contact', 'diamond'];3;7;True
+1652803987.5960853;mention;['general', 'tension', 'mention'];3;7;True
+1652803987.6884556;homework;['instance', 'employee', 'homework'];3;8;True
+1652803987.7784238;exchange;['reaction', 'exchange'];2;8;True
+1652803987.8719382;patience;['chemical', 'distance', 'patience'];3;8;True
+1652803987.9704092;interest;['audience', 'engineer', 'interest'];3;8;True
+1652803988.06651;politics;['material', 'politics'];2;8;True
+1652803988.172314;strategy;['opposite', 'stranger', 'strategy'];3;8;True
+1652803988.2669122;election;['designer', 'patience', 'election'];3;8;True
+1652803988.3725312;patience;['delivery', 'patience'];2;8;True
+1652803988.477877;audience;['delivery', 'decision', 'medicine', 'audience'];4;8;True
+1652803988.570783;location;['opposite', 'ambition', 'location'];3;8;True
+1652803988.6651607;opposite;['evidence', 'surprise', 'opposite'];3;8;True
+1652803988.7500048;incident;['increase', 'incident'];2;8;True
+1652803988.8457725;relation;['evidence', 'interest', 'internet', 'internal', 'relation'];5;8;True
+1652803988.9398067;material;['evidence', 'material'];2;8;True
+1652803989.031927;shoulder;['teaching', 'shoulder'];2;8;True
+1652803989.1258395;positive;['delivery', 'positive'];2;8;True
+1652803989.2197669;campaign;['teaching', 'campaign'];2;8;True
+1652803989.3246524;surround;['guidance', 'surround'];2;8;True
+1652803989.4220214;register;['teaching', 'register'];2;8;True
+1652803989.5140328;proposal;['audience', 'sympathy', 'proposal'];3;8;True
+1652803989.607698;currency;['specific', 'calendar', 'currency'];3;8;True
+1652803989.7023413;chemical;['practice', 'audience', 'chemical'];3;8;True
+1652803989.7959976;republic;['guidance', 'security', 'republic'];3;8;True
+1652803989.8866255;director;['surprise', 'director'];2;8;True
+1652803989.985194;argument;['creative', 'argument'];2;8;True
+1652803990.0817566;election;['teaching', 'election'];2;8;True
+1652803990.180417;baseball;['practice', 'valuable', 'baseball'];3;8;True
+1652803990.2965002;standard;['exercise', 'proposal', 'standard'];3;8;True
+1652803990.4075203;football;['republic', 'football'];2;8;True
+1652803990.4992492;strength;['decision', 'stranger', 'strength'];3;8;True
+1652803990.5966585;platform;['possible', 'platform'];2;8;True
+1652803990.7013326;exercise;['practice', 'exercise'];2;8;True
+1652803990.7920423;sympathy;['election', 'sympathy'];2;8;True
+1652803990.8906312;surround;['magazine', 'surround'];2;8;True
+1652803990.9877543;surround;['audience', 'surround'];2;8;True
+1652803991.0851223;research;['designer', 'research'];2;8;True
+1652803991.1771507;champion;['director', 'champion'];2;8;True
+1652803991.2764127;accident;['positive', 'incident', 'accident'];3;8;True
+1652803991.3674235;teaching;['possible', 'teaching'];2;8;True
+1652803991.465825;director;['resident', 'director'];2;8;True
+1652803991.5635388;district;['distance', 'district'];2;8;True
+1652803991.6671646;conflict;['evidence', 'conflict'];2;8;True
+1652803991.7644641;marriage;['possible', 'marriage'];2;8;True
+1652803991.8660738;distance;['relation', 'distance'];2;8;True
+1652803991.9657924;hospital;['negative', 'birthday', 'hospital'];3;8;True
+1652803992.065534;purchase;['internet', 'homework', 'research', 'purchase'];4;8;True
+1652803992.1588473;standard;['incident', 'standard'];2;8;True
+1652803992.251477;physical;['resident', 'physical'];2;8;True
+1652803992.351483;audience;['chemical', 'patience', 'audience'];3;8;True
+1652803992.4413285;shoulder;['security', 'shoulder'];2;8;True
+1652803992.538004;category;['relation', 'software', 'category'];3;8;True
+1652803992.6282606;struggle;['republic', 'shoulder', 'struggle'];3;8;True
+1652803992.7254546;politics;['possible', 'politics'];2;8;True
+1652803992.8179126;relation;['evidence', 'internet', 'internal', 'relation'];4;8;True
+1652803992.91376;internal;['decision', 'engineer', 'internet', 'internal'];4;8;True
+1652803993.006587;painting;['internet', 'position', 'painting'];3;8;True
+1652803993.1113734;activity;['patience', 'activity'];2;8;True
+1652803993.2241087;research;['surprise', 'strategy', 'research'];3;8;True
+1652803993.3328984;priority;['disaster', 'priority'];2;8;True
+1652803993.431808;ordinary;['opposite', 'ordinary'];2;8;True
+1652803993.5273285;champion;['security', 'official', 'champion'];3;8;True
+1652803993.6220906;guidance;['internal', 'audience', 'guidance'];3;8;True
+1652803993.7233224;weakness;['resident', 'weakness'];2;8;True
+1652803993.822984;schedule;['incident', 'schedule'];2;8;True
+1652803993.9219651;activity;['incident', 'activity'];2;8;True
+1652803994.021777;quantity;['evidence', 'quantity'];2;8;True
+1652803994.1201777;attitude;['reaction', 'attitude'];2;8;True
+1652803994.2191772;chemical;['emphasis', 'chemical'];2;8;True
+1652803994.3207662;painting;['possible', 'painting'];2;8;True
+1652803994.4210558;internet;['interest', 'internet'];2;8;True
+1652803994.5205488;external;['incident', 'stranger', 'external'];3;8;True
+1652803994.6178727;relation;['teaching', 'relation'];2;8;True
+1652803994.7212446;patience;['specific', 'republic', 'patience'];3;8;True
+1652803994.8309634;sandwich;['magazine', 'vacation', 'sandwich'];3;8;True
+1652803994.928197;politics;['republic', 'politics'];2;8;True
+1652803995.0238533;database;['audience', 'database'];2;8;True
+1652803995.1251037;district;['internal', 'district'];2;8;True
+1652803995.2568831;negative;['distance', 'negative'];2;8;True
+1652803995.3658037;weakness;['interest', 'weakness'];2;8;True
+1652803995.4785552;audience;['practice', 'audience'];2;8;True
+1652803995.5805295;familiar;['republic', 'original', 'familiar'];3;8;True
+1652803995.680345;progress;['estimate', 'response', 'progress'];3;8;True
+1652803995.7760932;creative;['relative', 'creative'];2;8;True
+1652803995.8740861;industry;['increase', 'industry'];2;8;True
+1652803995.973508;ordinary;['instance', 'original', 'ordinary'];3;8;True
+1652803996.0724108;industry;['relative', 'industry'];2;8;True
+1652803996.1731062;opposite;['possible', 'opposite'];2;8;True
+1652803996.286839;function;['distance', 'function'];2;8;True
+1652803996.389302;internet;['magazine', 'incident', 'interest', 'internet'];4;8;True
+1652803996.486455;schedule;['business', 'pressure', 'schedule'];3;8;True
+1652803996.586402;shoulder;['opposite', 'shoulder'];2;8;True
+1652803996.6869767;activity;['attitude', 'activity'];2;8;True
+1652803996.7792258;calendar;['positive', 'language', 'calendar'];3;8;True
+1652803996.8784335;question;['relation', 'question'];2;8;True
+1652803996.9766877;security;['magazine', 'positive', 'security'];3;8;True
+1652803997.073574;evidence;['interest', 'audience', 'evidence'];3;8;True
+1652803997.1683984;category;['emphasis', 'language', 'category'];3;8;True
+1652803997.2670875;incident;['question', 'accident', 'incident'];3;8;True
+1652803997.3653002;exercise;['business', 'exercise'];2;8;True
+1652803997.4604228;training;['evidence', 'painting', 'training'];3;8;True
+1652803997.5582592;attention;['dimension', 'attention'];2;9;True
+1652803997.6515524;interview;['sensitive', 'interview'];2;9;True
+1652803997.7469757;sensitive;['reference', 'telephone', 'sensitive'];3;9;True
+1652803997.844127;character;['insurance', 'character'];2;9;True
+1652803997.9378777;dimension;['candidate', 'boyfriend', 'dimension'];3;9;True
+1652803998.0362082;criticism;['attention', 'criticism'];2;9;True
+1652803998.1366768;challenge;['education', 'necessary', 'challenge'];3;9;True
+1652803998.2288039;insurance;['selection', 'insurance'];2;9;True
+1652803998.3296554;afternoon;['challenge', 'awareness', 'afternoon'];3;9;True
+1652803998.430547;promotion;['awareness', 'promotion'];2;9;True
+1652803998.5321448;reference;['marketing', 'reference'];2;9;True
+1652803998.6301913;principle;['awareness', 'principle'];2;9;True
+1652803998.7318869;highlight;['reference', 'highlight'];2;9;True
+1652803998.8296466;passenger;['dependent', 'passenger'];2;9;True
+1652803998.9220028;tradition;['emergency', 'historian', 'tradition'];3;9;True
+1652803999.026202;highlight;['afternoon', 'highlight'];2;9;True
+1652803999.13023;selection;['principle', 'selection'];2;9;True
+1652803999.2289858;confusion;['operation', 'confusion'];2;9;True
+1652803999.3240595;statement;['emergency', 'statement'];2;9;True
+1652803999.4180582;yesterday;['landscape', 'yesterday'];2;9;True
+1652803999.5162098;vegetable;['guarantee', 'vegetable'];2;9;True
+1652803999.6146314;equipment;['economics', 'equipment'];2;9;True
+1652803999.7099004;historian;['potential', 'historian'];2;9;True
+1652803999.7943707;professor;['telephone', 'professor'];2;9;True
+1652803999.8880136;community;['potential', 'condition', 'community'];3;9;True
+1652803999.981925;situation;['equipment', 'situation'];2;9;True
+1652804000.084195;yesterday;['principle', 'yesterday'];2;9;True
+1652804000.1834562;extension;['attention', 'extension'];2;9;True
+1652804000.2876818;temporary;['agreement', 'temporary'];2;9;True
+1652804000.3798318;reception;['implement', 'reception'];2;9;True
+1652804000.4705083;newspaper;['substance', 'newspaper'];2;9;True
+1652804000.574474;somewhere;['advantage', 'somewhere'];2;9;True
+1652804000.6683042;statement;['newspaper', 'statement'];2;9;True
+1652804000.762167;criticism;['reference', 'criticism'];2;9;True
+1652804000.8550053;potential;['equipment', 'potential'];2;9;True
+1652804000.9499843;economics;['landscape', 'economics'];2;9;True
+1652804001.0462518;reference;['principle', 'reference'];2;9;True
+1652804001.1487103;guarantee;['implement', 'guarantee'];2;9;True
+1652804001.2450874;substance;['dependent', 'selection', 'substance'];3;9;True
+1652804001.343706;principle;['dependent', 'principle'];2;9;True
+1652804001.4352286;inflation;['economics', 'pollution', 'inflation'];3;9;True
+1652804001.5296474;emergency;['equipment', 'emergency'];2;9;True
+1652804001.6264553;temporary;['principle', 'temporary'];2;9;True
+1652804001.7192264;emergency;['extension', 'emergency'];2;9;True
+1652804001.8211026;potential;['dimension', 'potential'];2;9;True
+1652804001.9201548;beginning;['agreement', 'beginning'];2;9;True
+1652804002.008255;marketing;['advantage', 'signature', 'marketing'];3;9;True
+1652804002.103273;statement;['operation', 'statement'];2;9;True
+1652804002.1991446;associate;['emergency', 'associate'];2;9;True
+1652804002.2946343;dependent;['direction', 'dependent'];2;9;True
+1652804002.3813803;education;['passenger', 'attention', 'education'];3;9;True
+1652804002.4801526;agreement;['principle', 'guarantee', 'agreement'];3;9;True
+1652804002.5810301;structure;['reference', 'cigarette', 'structure'];3;9;True
+1652804002.687163;direction;['inspector', 'direction'];2;9;True
+1652804002.785865;reception;['operation', 'reception'];2;9;True
+1652804002.87815;dependent;['substance', 'telephone', 'dependent'];3;9;True
+1652804002.9724307;professor;['awareness', 'professor'];2;9;True
+1652804003.0654612;temporary;['passenger', 'departure', 'temporary'];3;9;True
+1652804003.1617036;substance;['newspaper', 'substance'];2;9;True
+1652804003.2684586;interview;['potential', 'interview'];2;9;True
+1652804003.399631;temporary;['education', 'temporary'];2;9;True
+1652804003.5914283;spiritual;['intention', 'spiritual'];2;9;True
+1652804003.770427;attention;['substance', 'potential', 'attention'];3;9;True
+1652804003.976102;candidate;['intention', 'candidate'];2;9;True
+1652804004.2216556;reference;['implement', 'reference'];2;9;True
+1652804004.3508465;promotion;['beginning', 'community', 'promotion'];3;9;True
+1652804004.4629924;dependent;['implement', 'dependent'];2;9;True
+1652804004.574784;inflation;['apartment', 'inflation'];2;9;True
+1652804004.7846923;beginning;['recording', 'beginning'];2;9;True
+1652804004.9382105;historian;['selection', 'situation', 'historian'];3;9;True
+1652804005.0715768;selection;['principle', 'selection'];2;9;True
+1652804005.2440596;variation;['education', 'inflation', 'variation'];3;9;True
+1652804005.3706565;knowledge;['interview', 'knowledge'];2;9;True
+1652804005.482133;direction;['implement', 'interview', 'direction'];3;9;True
+1652804005.6076777;beginning;['president', 'beginning'];2;9;True
+1652804005.6978316;signature;['newspaper', 'necessary', 'signature'];3;9;True
+1652804005.790379;structure;['education', 'structure'];2;9;True
+1652804005.896057;professor;['knowledge', 'professor'];2;9;True
+1652804006.0240328;spiritual;['substance', 'spiritual'];2;9;True
+1652804006.125603;historian;['statement', 'historian'];2;9;True
+1652804006.2293425;selection;['statement', 'selection'];2;9;True
+1652804006.3346062;selection;['afternoon', 'selection'];2;9;True
+1652804006.429732;complaint;['direction', 'community', 'complaint'];3;9;True
+1652804006.5260804;dependent;['advantage', 'dependent'];2;9;True
+1652804006.6167734;confusion;['implement', 'confusion'];2;9;True
+1652804006.7104013;passenger;['necessary', 'awareness', 'passenger'];3;9;True
+1652804006.8164554;pollution;['inspector', 'pollution'];2;9;True
+1652804006.9078155;necessary;['dependent', 'reference', 'necessary'];3;9;True
+1652804007.0076396;emergency;['signature', 'emergency'];2;9;True
+1652804007.1035159;classroom;['signature', 'classroom'];2;9;True
+1652804007.1967797;promotion;['intention', 'situation', 'promotion'];3;9;True
+1652804007.3081074;historian;['direction', 'historian'];2;9;True
+1652804007.427094;extension;['dimension', 'extension'];2;9;True
+1652804007.5665329;afternoon;['education', 'afternoon'];2;9;True
+1652804007.6652708;principle;['challenge', 'principle'];2;9;True
+1652804007.7656474;statement;['dependent', 'agreement', 'statement'];3;9;True
+1652804007.8785133;condition;['marketing', 'condition'];2;9;True
+1652804007.9895723;condition;['direction', 'condition'];2;9;True
+1652804008.111923;operation;['signature', 'operation'];2;9;True
+1652804008.25289;condition;['advantage', 'condition'];2;9;True
+1652804008.4200876;background;['initiative', 'background'];2;10;True
+1652804008.592169;commercial;['importance', 'commercial'];2;10;True
+1652804008.7336411;reflection;['profession', 'reflection'];2;10;True
+1652804008.9031453;reflection;['definition', 'reflection'];2;10;True
+1652804009.0641434;transition;['equivalent', 'transition'];2;10;True
+1652804009.3448012;membership;['collection', 'membership'];2;10;True
+1652804009.4714658;membership;['importance', 'membership'];2;10;True
+1652804009.634979;assignment;['literature', 'initiative', 'assistance', 'assignment'];4;10;True
+1652804009.7458234;television;['impression', 'television'];2;10;True
+1652804009.8838298;atmosphere;['perception', 'atmosphere'];2;10;True
+1652804010.0279047;government;['girlfriend', 'government'];2;10;True
+1652804010.2200336;conclusion;['suggestion', 'conclusion'];2;10;True
+1652804010.333471;assumption;['possession', 'assumption'];2;10;True
+1652804010.4780214;percentage;['equivalent', 'department', 'percentage'];3;10;True
+1652804010.7298346;assumption;['equivalent', 'assumption'];2;10;True
+1652804010.8754697;connection;['commercial', 'connection'];2;10;True
+1652804011.018614;television;['specialist', 'resolution', 'television'];3;10;True
+1652804011.1231449;television;['reputation', 'television'];2;10;True
+1652804011.2540984;conference;['depression', 'conference'];2;10;True
+1652804011.3917122;television;['discipline', 'television'];2;10;True
+1652804011.545673;atmosphere;['possession', 'atmosphere'];2;10;True
+1652804011.6974847;expression;['impression', 'depression', 'expression'];3;10;True
+1652804011.888331;girlfriend;['literature', 'girlfriend'];2;10;True
+1652804012.0061855;inspection;['assistance', 'inspection'];2;10;True
+1652804012.1133652;conclusion;['friendship', 'conclusion'];2;10;True
+1652804012.2454684;commercial;['difference', 'commercial'];2;10;True
+1652804012.3930936;discussion;['depression', 'discussion'];2;10;True
+1652804012.5363297;leadership;['connection', 'leadership'];2;10;True
+1652804012.6372116;efficiency;['expression', 'equivalent', 'efficiency'];3;10;True
+1652804012.7585173;indication;['leadership', 'foundation', 'indication'];3;10;True
+1652804012.8910398;assumption;['initiative', 'transition', 'assumption'];3;10;True
+1652804013.0238738;reputation;['collection', 'suggestion', 'reputation'];3;10;True
+1652804013.128514;investment;['university', 'investment'];2;10;True
+1652804013.238619;philosophy;['expression', 'philosophy'];2;10;True
+1652804013.368972;indication;['collection', 'indication'];2;10;True
+1652804013.511007;inevitable;['efficiency', 'reputation', 'assignment', 'inevitable'];4;10;True
+1652804013.6139176;girlfriend;['profession', 'girlfriend'];2;10;True
+1652804013.71217;management;['friendship', 'management'];2;10;True
+1652804013.8280551;resolution;['reputation', 'revolution', 'resolution'];3;10;True
+1652804013.9556015;assistance;['university', 'assignment', 'assistance'];3;10;True
+1652804014.082188;population;['suggestion', 'foundation', 'population'];3;10;True
+1652804014.212558;specialist;['inspection', 'specialist'];2;10;True
+1652804014.3088262;difference;['enthusiasm', 'efficiency', 'difference'];3;10;True
+1652804014.4166927;investment;['commercial', 'investment'];2;10;True
+1652804014.5380206;inevitable;['confidence', 'initiative', 'inevitable'];3;10;True
+1652804014.6508374;atmosphere;['literature', 'atmosphere'];2;10;True
+1652804014.7696106;foundation;['inevitable', 'assumption', 'foundation'];3;10;True
+1652804014.85963;foundation;['excitement', 'obligation', 'foundation'];3;10;True
+1652804014.9579978;transition;['confidence', 'obligation', 'transition'];3;10;True
+1652804015.082242;university;['perception', 'university'];2;10;True
+1652804015.2851188;revolution;['reputation', 'revolution'];2;10;True
+1652804015.4323437;background;['protection', 'background'];2;10;True
+1652804015.5315607;commercial;['connection', 'commercial'];2;10;True
+1652804015.743262;obligation;['enthusiasm', 'obligation'];2;10;True
+1652804015.8820918;assignment;['definition', 'excitement', 'assignment'];3;10;True
+1652804016.0176902;reflection;['connection', 'reflection'];2;10;True
+1652804016.1448157;expression;['confidence', 'reputation', 'expression'];3;10;True
+1652804016.3002987;philosophy;['collection', 'philosophy'];2;10;True
+1652804016.4991508;depression;['equivalent', 'experience', 'impression', 'depression'];4;10;True
+1652804016.6329854;inspection;['perception', 'inspection'];2;10;True
+1652804016.7521234;inspection;['reputation', 'inspection'];2;10;True
+1652804016.8726273;employment;['equivalent', 'employment'];2;10;True
+1652804016.9876554;leadership;['collection', 'leadership'];2;10;True
+1652804017.1046646;government;['experience', 'government'];2;10;True
+1652804017.2252548;literature;['revolution', 'literature'];2;10;True
+1652804017.3387282;comparison;['revolution', 'comparison'];2;10;True
+1652804017.4534864;atmosphere;['assignment', 'atmosphere'];2;10;True
+1652804017.5755203;impression;['depression', 'expression', 'impression'];3;10;True
+1652804017.6945038;inevitable;['expression', 'efficiency', 'equivalent', 'inevitable'];4;10;True
+1652804017.8106232;management;['resolution', 'management'];2;10;True
+1652804017.9387395;experience;['importance', 'experience'];2;10;True
+1652804018.119381;inspection;['discipline', 'inspection'];2;10;True
+1652804018.2482953;resolution;['experience', 'university', 'resolution'];3;10;True
+1652804018.3754647;protection;['initiative', 'protection'];2;10;True
+1652804018.50579;perception;['girlfriend', 'permission', 'perception'];3;10;True
+1652804018.6500304;conference;['discipline', 'conference'];2;10;True
+1652804018.8314106;excitement;['definition', 'equivalent', 'excitement'];3;10;True
+1652804019.0217786;difficulty;['literature', 'difficulty'];2;10;True
+1652804019.1756773;population;['perception', 'population'];2;10;True
+1652804019.435124;collection;['university', 'connection', 'collection'];3;10;True
+1652804019.6296499;protection;['efficiency', 'collection', 'inspection', 'protection'];4;10;True
+1652804019.790788;reputation;['protection', 'reputation'];2;10;True
+1652804019.924485;philosophy;['leadership', 'philosophy'];2;10;True
+1652804020.0515704;government;['resolution', 'government'];2;10;True
+1652804020.220213;reputation;['membership', 'perception', 'reputation'];3;10;True
+1652804020.3905902;assumption;['efficiency', 'transition', 'assumption'];3;10;True
+1652804020.5718582;comparison;['experience', 'comparison'];2;10;True
+1652804020.7041214;atmosphere;['enthusiasm', 'atmosphere'];2;10;True
+1652804020.8652344;leadership;['protection', 'membership', 'leadership'];3;10;True
+1652804021.0051908;permission;['investment', 'permission'];2;10;True
+1652804021.125366;transition;['reflection', 'transition'];2;10;True
+1652804021.2410104;girlfriend;['perception', 'girlfriend'];2;10;True
+1652804021.3701687;commercial;['membership', 'commercial'];2;10;True
+1652804021.4785643;importance;['suggestion', 'protection', 'importance'];3;10;True
+1652804021.590255;inspection;['girlfriend', 'initiative', 'inspection'];3;10;True
+1652804021.7024596;initiative;['membership', 'equivalent', 'initiative'];3;10;True
+1652804021.8116927;background;['initiative', 'background'];2;10;True
+1652804021.9492726;employment;['possession', 'employment'];2;10;True
+1652804022.094657;conference;['assignment', 'preference', 'conference'];3;10;True
+1652804022.253912;efficiency;['expression', 'efficiency'];2;10;True
+1652804022.375679;competition;['engineering', 'explanation', 'competition'];3;11;True
+1652804022.4889593;grandfather;['explanation', 'grandfather'];2;11;True
+1652804022.5997326;engineering;['explanation', 'engineering'];2;11;True
+1652804022.6971629;explanation;['preparation', 'explanation'];2;11;True
+1652804022.79463;description;['recognition', 'description'];2;11;True
+1652804022.890542;negotiation;['maintenance', 'negotiation'];2;11;True
+1652804022.9852974;recognition;['personality', 'recognition'];2;11;True
+1652804023.0939965;personality;['grandfather', 'preparation', 'personality'];3;11;True
+1652804023.19273;instruction;['celebration', 'instruction'];2;11;True
+1652804023.3010466;celebration;['competition', 'celebration'];2;11;True
+1652804023.4004903;instruction;['appointment', 'instruction'];2;11;True
+1652804023.5342162;personality;['interaction', 'personality'];2;11;True
+1652804023.721285;replacement;['development', 'replacement'];2;11;True
+1652804023.8665152;celebration;['replacement', 'celebration'];2;11;True
+1652804024.0081627;examination;['explanation', 'examination'];2;11;True
+1652804024.1541307;advertising;['competition', 'advertising'];2;11;True
+1652804024.2922332;imagination;['engineering', 'imagination'];2;11;True
+1652804024.4179623;explanation;['celebration', 'explanation'];2;11;True
+1652804024.5765157;development;['competition', 'development'];2;11;True
+1652804024.6944108;consequence;['grandfather', 'consequence'];2;11;True
+1652804024.8368955;recognition;['negotiation', 'recognition'];2;11;True
+1652804024.9475484;measurement;['description', 'measurement'];2;11;True
+1652804025.0444221;negotiation;['requirement', 'negotiation'];2;11;True
+1652804025.166308;recognition;['grandmother', 'recognition'];2;11;True
+1652804025.308931;appointment;['appointment'];1;11;True
+1652804025.4525583;replacement;['description', 'replacement'];2;11;True
+1652804025.5516515;consequence;['performance', 'consequence'];2;11;True
+1652804025.6630266;negotiation;['environment', 'negotiation'];2;11;True
+1652804025.828862;opportunity;['interaction', 'opportunity'];2;11;True
+1652804025.9326096;advertising;['description', 'advertising'];2;11;True
+1652804026.0402849;comfortable;['competition', 'comfortable'];2;11;True
+1652804026.160125;temperature;['requirement', 'temperature'];2;11;True
+1652804026.2839272;performance;['requirement', 'performance'];2;11;True
+1652804026.4198215;personality;['celebration', 'personality'];2;11;True
+1652804026.5440392;association;['consequence', 'association'];2;11;True
+1652804026.661399;description;['advertising', 'description'];2;11;True
+1652804026.7999647;advertising;['celebration', 'advertising'];2;11;True
+1652804026.9540958;independent;['concentrate', 'independent'];2;11;True
+1652804027.1217678;preparation;['explanation', 'preparation'];2;11;True
+1652804027.2640085;requirement;['alternative', 'description', 'requirement'];3;11;True
+1652804027.3871067;perspective;['appointment', 'perspective'];2;11;True
+1652804027.501084;environment;['advertising', 'environment'];2;11;True
+1652804027.651083;engineering;['replacement', 'engineering'];2;11;True
+1652804027.7745876;environment;['description', 'environment'];2;11;True
+1652804028.0150623;explanation;['replacement', 'explanation'];2;11;True
+1652804028.2322514;supermarket;['advertising', 'supermarket'];2;11;True
+1652804028.5445185;appointment;['explanation', 'appointment'];2;11;True
+1652804028.7323182;personality;['description', 'personality'];2;11;True
+1652804028.9354947;personality;['explanation', 'personality'];2;11;True
+1652804029.0804389;improvement;['negotiation', 'environment', 'improvement'];3;11;True
+1652804029.3051686;engineering;['negotiation', 'engineering'];2;11;True
+1652804029.445839;information;['maintenance', 'imagination', 'information'];3;11;True
+1652804029.5941412;improvement;['alternative', 'environment', 'improvement'];3;11;True
+1652804029.7304454;engineering;['examination', 'engineering'];2;11;True
+1652804029.8767295;environment;['appointment', 'environment'];2;11;True
+1652804030.0205302;information;['negotiation', 'association', 'information'];3;11;True
+1652804030.2399457;application;['independent', 'opportunity', 'application'];3;11;True
+1652804030.4287786;appointment;['interaction', 'appointment'];2;11;True
+1652804030.5726342;temperature;['maintenance', 'temperature'];2;11;True
+1652804030.708294;explanation;['examination', 'explanation'];2;11;True
+1652804030.881814;requirement;['replacement', 'requirement'];2;11;True
+1652804031.041333;grandmother;['competition', 'grandmother'];2;11;True
+1652804031.1941562;negotiation;['personality', 'negotiation'];2;11;True
+1652804031.3716679;information;['competition', 'information'];2;11;True
+1652804031.555182;interaction;['description', 'interaction'];2;11;True
+1652804031.7266145;comfortable;['independent', 'comfortable'];2;11;True
+1652804031.9006572;possibility;['advertising', 'possibility'];2;11;True
+1652804032.0819752;information;['alternative', 'information'];2;11;True
+1652804032.2177083;personality;['recognition', 'personality'];2;11;True
+1652804032.3800237;supermarket;['replacement', 'supermarket'];2;11;True
+1652804032.5285182;improvement;['maintenance', 'environment', 'improvement'];3;11;True
+1652804032.7463624;concentrate;['maintenance', 'concentrate'];2;11;True
+1652804032.8584929;supermarket;['negotiation', 'supermarket'];2;11;True
+1652804032.9676604;environment;['engineering', 'environment'];2;11;True
+1652804033.0796618;concentrate;['measurement', 'interaction', 'concentrate'];3;11;True
+1652804033.2255664;supermarket;['measurement', 'supermarket'];2;11;True
+1652804033.3383727;temperature;['personality', 'temperature'];2;11;True
+1652804033.4426572;grandmother;['grandfather', 'grandmother'];2;11;True
+1652804033.54866;combination;['measurement', 'combination'];2;11;True
+1652804033.6507127;improvement;['competition', 'appointment', 'improvement'];3;11;True
+1652804033.7449992;instruction;['measurement', 'instruction'];2;11;True
+1652804033.8750987;examination;['environment', 'examination'];2;11;True
+1652804033.9721975;advertising;['performance', 'advertising'];2;11;True
+1652804034.0994089;consequence;['preparation', 'consequence'];2;11;True
+1652804034.198344;perspective;['development', 'perspective'];2;11;True
+1652804034.2926168;negotiation;['negotiation'];1;11;True
+1652804034.3828661;measurement;['competition', 'measurement'];2;11;True
+1652804034.484326;personality;['measurement', 'personality'];2;11;True
+1652804034.582273;association;['improvement', 'association'];2;11;True
+1652804034.685719;temperature;['improvement', 'temperature'];2;11;True
+1652804034.802632;engineering;['performance', 'engineering'];2;11;True
+1652804034.911183;association;['advertising', 'association'];2;11;True
+1652804035.0067105;association;['concentrate', 'application', 'association'];3;11;True
+1652804035.1100903;examination;['competition', 'examination'];2;11;True
+1652804035.2211776;instruction;['development', 'instruction'];2;11;True
+1652804035.3220277;perspective;['alternative', 'perspective'];2;11;True
+1652804035.4280698;replacement;['measurement', 'replacement'];2;11;True
+1652804035.526303;possibility;['concentrate', 'possibility'];2;11;True
+1652804035.6358314;celebration;['appointment', 'celebration'];2;11;True
+1652804035.749792;consequence;['concentrate', 'consequence'];2;11;True
+1652804035.8632693;manufacturer;['introduction', 'manufacturer'];2;12;True
+1652804035.9805238;refrigerator;['professional', 'refrigerator'];2;12;True
+1652804036.0893185;independence;['professional', 'independence'];2;12;True
+1652804036.1933656;manufacturer;['presentation', 'manufacturer'];2;12;True
+1652804036.296365;significance;['independence', 'significance'];2;12;True
+1652804036.40518;organization;['satisfaction', 'organization'];2;12;True
+1652804036.5130622;contribution;['presentation', 'introduction', 'contribution'];3;12;True
+1652804036.6084602;professional;['independence', 'professional'];2;12;True
+1652804036.7120788;presentation;['construction', 'presentation'];2;12;True
+1652804036.811729;manufacturer;['organization', 'manufacturer'];2;12;True
+1652804036.9103813;construction;['professional', 'construction'];2;12;True
+1652804036.9945176;presentation;['relationship', 'presentation'];2;12;True
+1652804037.0872881;significance;['construction', 'significance'];2;12;True
+1652804037.2107058;conversation;['professional', 'conversation'];2;12;True
+1652804037.3248324;significance;['distribution', 'significance'];2;12;True
+1652804037.4266737;relationship;['construction', 'relationship'];2;12;True
+1652804037.527156;satisfaction;['significance', 'satisfaction'];2;12;True
+1652804037.6169298;presentation;['introduction', 'organization', 'presentation'];3;12;True
+1652804037.7085648;introduction;['conversation', 'introduction'];2;12;True
+1652804037.8046482;contribution;['independence', 'construction', 'contribution'];3;12;True
+1652804037.8923917;contribution;['organization', 'contribution'];2;12;True
+1652804037.9780264;professional;['presentation', 'professional'];2;12;True
+1652804038.0719905;presentation;['conversation', 'presentation'];2;12;True
+1652804038.1565702;construction;['introduction', 'construction'];2;12;True
+1652804038.236838;manufacturer;['organization', 'manufacturer'];2;12;True
+1652804038.312996;manufacturer;['introduction', 'manufacturer'];2;12;True
+1652804038.3858402;presentation;['introduction', 'organization', 'presentation'];3;12;True
+1652804038.4765127;relationship;['organization', 'relationship'];2;12;True
+1652804038.5882754;manufacturer;['introduction', 'manufacturer'];2;12;True
+1652804038.6848845;championship;['construction', 'championship'];2;12;True
+1652804038.7675173;professional;['championship', 'professional'];2;12;True
+1652804038.854657;professional;['distribution', 'professional'];2;12;True
+1652804038.944407;introduction;['relationship', 'contribution', 'introduction'];3;12;True
+1652804039.0328267;satisfaction;['professional', 'satisfaction'];2;12;True
+1652804039.1214118;contribution;['contribution'];1;12;True
+1652804039.229986;relationship;['relationship'];1;12;True
+1652804039.3256915;manufacturer;['contribution', 'manufacturer'];2;12;True
+1652804039.4065354;significance;['professional', 'significance'];2;12;True
+1652804039.5033207;professional;['introduction', 'professional'];2;12;True
+1652804039.5950463;satisfaction;['championship', 'conversation', 'satisfaction'];3;12;True
+1652804039.689271;significance;['introduction', 'significance'];2;12;True
+1652804039.7755742;relationship;['satisfaction', 'presentation', 'relationship'];3;12;True
+1652804039.8680143;satisfaction;['distribution', 'satisfaction'];2;12;True
+1652804039.9720304;manufacturer;['introduction', 'manufacturer'];2;12;True
+1652804040.1250865;organization;['conversation', 'organization'];2;12;True
+1652804040.2749574;relationship;['introduction', 'presentation', 'relationship'];3;12;True
+1652804040.3938262;manufacturer;['introduction', 'manufacturer'];2;12;True
+1652804040.5121605;manufacturer;['satisfaction', 'manufacturer'];2;12;True
+1652804040.6487186;independence;['significance', 'independence'];2;12;True
+1652804040.7422807;professional;['presentation', 'professional'];2;12;True
+1652804040.8343673;distribution;['conversation', 'distribution'];2;12;True
+1652804040.9297597;independence;['introduction', 'independence'];2;12;True
+1652804041.0274076;organization;['contribution', 'organization'];2;12;True
+1652804041.1240993;relationship;['organization', 'relationship'];2;12;True
+1652804041.2229922;championship;['organization', 'championship'];2;12;True
+1652804041.324676;relationship;['introduction', 'organization', 'relationship'];3;12;True
+1652804041.4311829;conversation;['presentation', 'conversation'];2;12;True
+1652804041.5330138;conversation;['organization', 'presentation', 'conversation'];3;12;True
+1652804041.6369827;organization;['significance', 'organization'];2;12;True
+1652804041.7209723;significance;['championship', 'significance'];2;12;True
+1652804041.8135517;organization;['construction', 'organization'];2;12;True
+1652804041.8989396;contribution;['presentation', 'introduction', 'contribution'];3;12;True
+1652804042.000307;introduction;['conversation', 'contribution', 'introduction'];3;12;True
+1652804042.084534;contribution;['championship', 'contribution'];2;12;True
+1652804042.1720986;professional;['distribution', 'professional'];2;12;True
+1652804042.2727654;organization;['conversation', 'organization'];2;12;True
+1652804042.3739998;organization;['professional', 'organization'];2;12;True
+1652804042.4683;independence;['professional', 'independence'];2;12;True
+1652804042.5640712;manufacturer;['satisfaction', 'manufacturer'];2;12;True
+1652804042.6853728;satisfaction;['distribution', 'satisfaction'];2;12;True
+1652804042.7767398;conversation;['relationship', 'conversation'];2;12;True
+1652804042.8572915;manufacturer;['presentation', 'manufacturer'];2;12;True
+1652804042.945016;independence;['contribution', 'significance', 'independence'];3;12;True
+1652804043.0462282;introduction;['distribution', 'introduction'];2;12;True
+1652804043.144297;satisfaction;['independence', 'construction', 'satisfaction'];3;12;True
+1652804043.2672803;relationship;['relationship'];1;12;True
+1652804043.386079;independence;['championship', 'independence'];2;12;True
+1652804043.4901628;distribution;['presentation', 'construction', 'distribution'];3;12;True
+1652804043.5843751;contribution;['presentation', 'contribution'];2;12;True
+1652804043.6789224;satisfaction;['conversation', 'satisfaction'];2;12;True
+1652804043.7776172;construction;['contribution', 'construction'];2;12;True
+1652804043.8707106;satisfaction;['distribution', 'satisfaction'];2;12;True
+1652804043.969837;construction;['relationship', 'construction'];2;12;True
+1652804044.0617144;significance;['presentation', 'significance'];2;12;True
+1652804044.15878;independence;['significance', 'independence'];2;12;True
+1652804044.23894;independence;['satisfaction', 'independence'];2;12;True
+1652804044.3402896;contribution;['organization', 'distribution', 'contribution'];3;12;True
+1652804044.4443772;independence;['contribution', 'significance', 'independence'];3;12;True
+1652804044.5801501;professional;['distribution', 'professional'];2;12;True
+1652804044.7232711;organization;['independence', 'organization'];2;12;True
+1652804044.8428745;relationship;['construction', 'relationship'];2;12;True
+1652804044.9674568;refrigerator;['distribution', 'refrigerator'];2;12;True
+1652804045.08287;presentation;['construction', 'presentation'];2;12;True
+1652804045.263432;distribution;['independence', 'distribution'];2;12;True
+1652804045.3786323;significance;['satisfaction', 'significance'];2;12;True
+1652804045.48921;contribution;['conversation', 'contribution'];2;12;True
+1652804045.5928082;construction;['contribution', 'construction'];2;12;True
+1652804045.6958845;significance;['introduction', 'significance'];2;12;True
+1652804045.802969;championship;['contribution', 'championship'];2;12;True
+1652804045.9018252;contribution;['construction', 'contribution'];2;12;True
+1652804045.996988;understanding;['understanding'];1;13;True
+1652804046.1000175;understanding;['entertainment', 'understanding'];2;13;True
+1652804046.2073874;establishment;['communication', 'establishment'];2;13;True
+1652804046.306527;entertainment;['understanding', 'entertainment'];2;13;True
+1652804046.4204874;establishment;['understanding', 'establishment'];2;13;True
+1652804046.5299592;communication;['understanding', 'communication'];2;13;True
+1652804046.64205;entertainment;['international', 'entertainment'];2;13;True
+1652804046.7514844;entertainment;['entertainment'];1;13;True
+1652804046.85676;international;['international'];1;13;True
+1652804046.9643517;entertainment;['understanding', 'entertainment'];2;13;True
+1652804047.0665362;establishment;['communication', 'establishment'];2;13;True
+1652804047.173744;international;['communication', 'international'];2;13;True
+1652804047.2726195;entertainment;['establishment', 'entertainment'];2;13;True
+1652804047.374061;entertainment;['communication', 'entertainment'];2;13;True
+1652804047.4809408;understanding;['consideration', 'understanding'];2;13;True
+1652804047.583718;international;['international'];1;13;True
+1652804047.6827946;establishment;['consideration', 'establishment'];2;13;True
+1652804047.780938;understanding;['communication', 'understanding'];2;13;True
+1652804047.8782732;understanding;['communication', 'understanding'];2;13;True
+1652804047.9792254;consideration;['establishment', 'understanding', 'consideration'];3;13;True
+1652804048.0785997;international;['understanding', 'entertainment', 'international'];3;13;True
+1652804048.178579;entertainment;['establishment', 'entertainment'];2;13;True
+1652804048.2723746;communication;['communication'];1;13;True
+1652804048.3628774;understanding;['entertainment', 'understanding'];2;13;True
+1652804048.4545274;establishment;['understanding', 'establishment'];2;13;True
+1652804048.552902;understanding;['consideration', 'understanding'];2;13;True
+1652804048.637619;understanding;['establishment', 'understanding'];2;13;True
+1652804048.7127588;entertainment;['establishment', 'entertainment'];2;13;True
+1652804048.800774;understanding;['entertainment', 'understanding'];2;13;True
+1652804048.8916051;entertainment;['establishment', 'entertainment'];2;13;True
+1652804048.9768145;entertainment;['communication', 'establishment', 'entertainment'];3;13;True
+1652804049.0541494;international;['entertainment', 'international'];2;13;True
+1652804049.1343021;consideration;['establishment', 'consideration'];2;13;True
+1652804049.246721;understanding;['communication', 'understanding'];2;13;True
+1652804049.3649652;communication;['entertainment', 'communication'];2;13;True
+1652804049.46366;international;['entertainment', 'international'];2;13;True
+1652804049.5567417;international;['establishment', 'international'];2;13;True
+1652804049.653319;international;['understanding', 'international'];2;13;True
+1652804049.7580223;establishment;['entertainment', 'establishment'];2;13;True
+1652804049.858833;communication;['establishment', 'communication'];2;13;True
+1652804049.9771013;understanding;['communication', 'understanding'];2;13;True
+1652804050.0840125;consideration;['establishment', 'consideration'];2;13;True
+1652804050.1845117;consideration;['consideration'];1;13;True
+1652804050.2924943;understanding;['international', 'understanding'];2;13;True
+1652804050.3923817;communication;['understanding', 'communication'];2;13;True
+1652804050.4921057;understanding;['understanding'];1;13;True
+1652804050.6051798;international;['understanding', 'international'];2;13;True
+1652804050.7027168;consideration;['international', 'consideration'];2;13;True
+1652804050.814346;establishment;['understanding', 'establishment'];2;13;True
+1652804050.9165633;consideration;['understanding', 'consideration'];2;13;True
+1652804051.0243945;international;['communication', 'international'];2;13;True
+1652804051.12951;international;['consideration', 'international'];2;13;True
+1652804051.250911;entertainment;['establishment', 'entertainment'];2;13;True
+1652804051.3573472;establishment;['understanding', 'establishment'];2;13;True
+1652804051.4568892;establishment;['consideration', 'establishment'];2;13;True
+1652804051.5583417;communication;['consideration', 'communication'];2;13;True
+1652804051.6834264;entertainment;['understanding', 'entertainment'];2;13;True
+1652804051.8073428;consideration;['entertainment', 'international', 'consideration'];3;13;True
+1652804051.968549;understanding;['understanding'];1;13;True
+1652804052.1264076;entertainment;['communication', 'establishment', 'entertainment'];3;13;True
+1652804052.2645812;international;['establishment', 'international'];2;13;True
+1652804052.4412606;communication;['communication'];1;13;True
+1652804052.5853384;establishment;['consideration', 'establishment'];2;13;True
+1652804052.696578;consideration;['international', 'consideration'];2;13;True
+1652804052.8069959;understanding;['establishment', 'understanding'];2;13;True
+1652804052.9599304;understanding;['entertainment', 'understanding'];2;13;True
+1652804053.0920973;establishment;['understanding', 'establishment'];2;13;True
+1652804053.2261145;communication;['international', 'communication'];2;13;True
+1652804053.3655646;entertainment;['international', 'entertainment'];2;13;True
+1652804053.503722;entertainment;['understanding', 'entertainment'];2;13;True
+1652804053.625805;consideration;['understanding', 'consideration'];2;13;True
+1652804053.7421887;establishment;['understanding', 'establishment'];2;13;True
+1652804053.8740833;entertainment;['consideration', 'entertainment'];2;13;True
+1652804054.0047054;understanding;['international', 'entertainment', 'understanding'];3;13;True
+1652804054.1328907;establishment;['consideration', 'establishment'];2;13;True
+1652804054.2752154;consideration;['international', 'consideration'];2;13;True
+1652804054.3989403;entertainment;['understanding', 'entertainment'];2;13;True
+1652804054.531466;establishment;['understanding', 'establishment'];2;13;True
+1652804054.6862295;communication;['consideration', 'communication'];2;13;True
+1652804054.8064597;establishment;['consideration', 'establishment'];2;13;True
+1652804054.9701276;consideration;['communication', 'consideration'];2;13;True
+1652804055.1135342;international;['establishment', 'international'];2;13;True
+1652804055.330389;entertainment;['entertainment'];1;13;True
+1652804055.5080543;consideration;['establishment', 'understanding', 'consideration'];3;13;True
+1652804055.6232123;international;['international'];1;13;True
+1652804055.7499878;consideration;['understanding', 'consideration'];2;13;True
+1652804055.8521574;establishment;['establishment'];1;13;True
+1652804055.949211;entertainment;['international', 'entertainment'];2;13;True
+1652804056.0379682;entertainment;['communication', 'establishment', 'entertainment'];3;13;True
+1652804056.146355;international;['consideration', 'international'];2;13;True
+1652804056.2671936;consideration;['international', 'consideration'];2;13;True
+1652804056.4214027;communication;['consideration', 'communication'];2;13;True
+1652804056.5695372;international;['entertainment', 'international'];2;13;True
+1652804056.704911;establishment;['consideration', 'establishment'];2;13;True
+1652804056.86375;understanding;['international', 'understanding'];2;13;True
+1652804056.9639978;entertainment;['international', 'entertainment'];2;13;True
+1652804057.0612178;understanding;['consideration', 'understanding'];2;13;True
+1652804057.1554914;entertainment;['international', 'entertainment'];2;13;True
+1652804057.2617319;consideration;['international', 'consideration'];2;13;True
+1652804057.3751726;understanding;['consideration', 'understanding'];2;13;True
+1652804057.5107803;transportation;['transportation'];1;14;True
+1652804057.6436973;administration;['responsibility', 'administration'];2;14;True
+1652804057.7498693;recommendation;['administration', 'recommendation'];2;14;True
+1652804057.8520777;representative;['administration', 'representative'];2;14;True
+1652804057.9879248;recommendation;['administration', 'recommendation'];2;14;True
+1652804058.094002;recommendation;['transportation', 'recommendation'];2;14;True
+1652804058.2124767;transportation;['responsibility', 'transportation'];2;14;True
+1652804058.3277872;representative;['transportation', 'representative'];2;14;True
+1652804058.4441931;transportation;['recommendation', 'transportation'];2;14;True
+1652804058.577378;administration;['administration'];1;14;True
+1652804058.726064;recommendation;['transportation', 'recommendation'];2;14;True
+1652804058.8584237;responsibility;['responsibility'];1;14;True
+1652804059.0178926;transportation;['administration', 'transportation'];2;14;True
+1652804059.1494658;recommendation;['representative', 'recommendation'];2;14;True
+1652804059.3599272;administration;['transportation', 'administration'];2;14;True
+1652804059.4807491;recommendation;['responsibility', 'recommendation'];2;14;True
+1652804059.5826066;administration;['administration'];1;14;True
+1652804059.7122426;administration;['transportation', 'administration'];2;14;True
+1652804059.8198714;representative;['responsibility', 'representative'];2;14;True
+1652804059.915916;recommendation;['responsibility', 'recommendation'];2;14;True
+1652804060.0069199;transportation;['representative', 'transportation'];2;14;True
+1652804060.1028547;recommendation;['transportation', 'recommendation'];2;14;True
+1652804060.2122784;recommendation;['transportation', 'recommendation'];2;14;True
+1652804060.3657136;recommendation;['representative', 'recommendation'];2;14;True
+1652804060.4966793;representative;['responsibility', 'representative'];2;14;True
+1652804060.5771432;recommendation;['administration', 'recommendation'];2;14;True
+1652804060.6695204;representative;['transportation', 'representative'];2;14;True
+1652804060.7571096;administration;['recommendation', 'administration'];2;14;True
+1652804060.8670874;responsibility;['responsibility'];1;14;True
+1652804060.9657698;administration;['representative', 'administration'];2;14;True
+1652804061.0615032;representative;['transportation', 'representative'];2;14;True
+1652804061.1516302;representative;['transportation', 'representative'];2;14;True
+1652804061.237371;responsibility;['recommendation', 'responsibility'];2;14;True
+1652804061.3352554;transportation;['administration', 'transportation'];2;14;True
+1652804061.4190402;administration;['responsibility', 'administration'];2;14;True
+1652804061.5077345;responsibility;['responsibility'];1;14;True
+1652804061.5993037;transportation;['recommendation', 'transportation'];2;14;True
+1652804061.7451563;administration;['representative', 'administration'];2;14;True
+1652804061.8304126;recommendation;['representative', 'recommendation'];2;14;True
+1652804061.9167423;recommendation;['recommendation'];1;14;True
+1652804062.009772;transportation;['representative', 'transportation'];2;14;True
+1652804062.0986948;recommendation;['administration', 'recommendation'];2;14;True
+1652804062.1931236;recommendation;['recommendation'];1;14;True
+1652804062.2873466;responsibility;['transportation', 'responsibility'];2;14;True
+1652804062.3907387;recommendation;['transportation', 'recommendation'];2;14;True
+1652804062.4882896;administration;['recommendation', 'administration'];2;14;True
+1652804062.5766168;representative;['transportation', 'representative'];2;14;True
+1652804062.700799;representative;['responsibility', 'representative'];2;14;True
+1652804062.8116288;transportation;['representative', 'transportation'];2;14;True
+1652804062.911503;responsibility;['administration', 'responsibility'];2;14;True
+1652804063.0188355;recommendation;['responsibility', 'recommendation'];2;14;True
+1652804063.11734;administration;['recommendation', 'administration'];2;14;True
+1652804063.228756;administration;['representative', 'administration'];2;14;True
+1652804063.3214262;transportation;['transportation'];1;14;True
+1652804063.4103084;recommendation;['responsibility', 'recommendation'];2;14;True
+1652804063.5212412;administration;['transportation', 'administration'];2;14;True
+1652804063.6144354;representative;['responsibility', 'representative'];2;14;True
+1652804063.7103014;representative;['representative'];1;14;True
+1652804063.8446012;recommendation;['recommendation'];1;14;True
+1652804063.9842517;recommendation;['transportation', 'recommendation'];2;14;True
+1652804064.109035;administration;['recommendation', 'administration'];2;14;True
+1652804064.2012858;administration;['administration'];1;14;True
+1652804064.2954352;responsibility;['responsibility'];1;14;True
+1652804064.3890893;administration;['administration'];1;14;True
+1652804064.4771993;transportation;['representative', 'transportation'];2;14;True
+1652804064.5671117;recommendation;['recommendation'];1;14;True
+1652804064.6517096;administration;['administration'];1;14;True
+1652804064.7335672;responsibility;['representative', 'responsibility'];2;14;True
+1652804064.8139532;representative;['recommendation', 'representative'];2;14;True
+1652804064.90219;representative;['responsibility', 'representative'];2;14;True
+1652804064.992477;recommendation;['administration', 'recommendation'];2;14;True
+1652804065.0813415;representative;['transportation', 'representative'];2;14;True
+1652804065.1794388;responsibility;['representative', 'responsibility'];2;14;True
+1652804065.2684464;transportation;['recommendation', 'transportation'];2;14;True
+1652804065.3515396;responsibility;['responsibility'];1;14;True
+1652804065.436732;recommendation;['responsibility', 'recommendation'];2;14;True
+1652804065.5329497;responsibility;['responsibility'];1;14;True
+1652804065.6211646;recommendation;['responsibility', 'recommendation'];2;14;True
+1652804065.7032595;administration;['recommendation', 'administration'];2;14;True
+1652804065.7951136;responsibility;['recommendation', 'responsibility'];2;14;True
+1652804065.8805075;recommendation;['representative', 'recommendation'];2;14;True
+1652804065.9694808;recommendation;['responsibility', 'recommendation'];2;14;True
+1652804066.0489845;representative;['representative'];1;14;True
+1652804066.1455956;recommendation;['responsibility', 'recommendation'];2;14;True
+1652804066.241546;representative;['transportation', 'representative'];2;14;True
+1652804066.3221526;transportation;['administration', 'transportation'];2;14;True
+1652804066.4070172;administration;['administration'];1;14;True
+1652804066.4978507;representative;['responsibility', 'representative'];2;14;True
+1652804066.595009;administration;['representative', 'administration'];2;14;True
+1652804066.6857877;responsibility;['representative', 'responsibility'];2;14;True
+1652804066.7793071;responsibility;['administration', 'responsibility'];2;14;True
+1652804066.8655603;administration;['responsibility', 'administration'];2;14;True
+1652804066.9437265;administration;['transportation', 'administration'];2;14;True
+1652804067.0296052;recommendation;['administration', 'recommendation'];2;14;True
+1652804067.1144588;representative;['responsibility', 'representative'];2;14;True
+1652804067.2008686;administration;['administration'];1;14;True
+1652804067.303239;recommendation;['recommendation'];1;14;True
+1652804067.3905647;recommendation;['transportation', 'recommendation'];2;14;True
+1652804067.4804883;representative;['administration', 'representative'];2;14;True
+1652804067.5787454;recommendation;['recommendation'];1;14;True

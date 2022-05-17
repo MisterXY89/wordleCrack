@@ -1,0 +1,20 @@
+#! /bin/bash
+
+LENGTHS=(2 3 4 5 6 7 8 9 10 11 12 13 14)
+OUTFILE="wordlee_run_results.csv"
+
+NREP=100
+BINARY="python3 ./crack_wordlee.py"
+
+
+# remove old output data
+echo -n "" > "${OUTFILE}"
+
+for length in "${LENGTHS[@]}"
+do
+    for r in `seq 1 ${NREP}`
+    do    
+        echo "${BINARY} --length $length"
+        ${BINARY} --length $length >> "${OUTFILE}"
+   done
+done
