@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+    "name": "NYT Wordle Solver",
+    "version": "1.1",
+    "description": "Automatically solves NYT Wordle and logs invalid words.",
+    "permissions": [
+      "activeTab",
+      "https://www.nytimes.com/",
+      "downloads"
+    ],
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "icons": {
+      "48": "icons/solver-48.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www.nytimes.com/games/wordle/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "browser_action": {
+      "default_title": "Solve Wordle"
+    },
+    "web_accessible_resources": [
+      "wordlist.txt"
+    ]
+  }
+  
