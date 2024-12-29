@@ -16,7 +16,7 @@ A Firefox extension that automates solving the Wordle game, leveraging logic to 
     1.4 Choose the `manifest.json` file in the firefox-extension folder
 
 2. Use the Solver:
-    2.1 Navigate to the (Wordle website.)[https://nytimes.com/games/wordle/index.html]
+    2.1 Navigate to the [Wordle website.](https://nytimes.com/games/wordle/index.html)
     2.2 Click on the extension icon in the toolbar.
     2.3 The solver will start automatically and attempt to solve the Wordle puzzle.
 
